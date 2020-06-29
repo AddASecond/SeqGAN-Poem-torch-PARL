@@ -27,7 +27,9 @@ This is how I put SeqGAN into PARL framework:
 * rewards(loss) are used to train critic/env(discriminator) and actor/agent(generator)
 
 ## TODOs
-
+* train using Poems as corpus   -Done
+* using PARL framework   -Done
+* using build-in functions in PARL to substitude some function   -ing
 
 ## Thanks
 most of code borrow from https://github.com/X-czh/SeqGAN-PyTorch and https://github.com/TobiasLee/SeqGAN_Poem, but merge them into PARL framework for better 
