@@ -8,5 +8,5 @@ This is a project that using SeqGAN to generate Chinese Poem, where baidu's rein
 github link of baidu's reinforcement learning framework PARL:
 https://github.com/PaddlePaddle/PARL
 ## Thanks
-most of code borrow from https://github.com/ZiJianZhao/SeqGAN-PyTorch and https://github.com/TobiasLee/SeqGAN_Poem, but merge them into PARL framework for better 
+most of code borrow from https://github.com/X-czh/SeqGAN-PyTorch and https://github.com/TobiasLee/SeqGAN_Poem, but merge them into PARL framework for better 
 understanding of the RL process in SeqGAN.
