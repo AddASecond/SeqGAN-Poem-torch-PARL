@@ -8,6 +8,7 @@ This is a project that using SeqGAN to generate Chinese Poem, where baidu's rein
 github link of baidu's reinforcement learning framework PARL:
 https://github.com/PaddlePaddle/PARL
 
+## Arichitecture
 This is how PARL abstracts RL as model-algorithm-agent:
 ![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/abstractions.png)
 
@@ -15,6 +16,11 @@ And this is how SeqGAN works:
 ![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/seqgan.png)
 
 This is how I put SeqGAN into PARL framework:
+1) generator is actor/agent, generator.step gives "actions"(how to choose word), generator.sample (MTCS search in SeqGAN) gives the "states"(whole sequence samples) each episode(here one episode ends means the whole sequence are generated)
+
+2) discriminator and rollout are critic/environments, which obtain samples/embedding, output rewards  
+
+3) rewards(loss) are used to train critic/env(discriminator) and actor/agent(generator)
 
 
 ## Thanks
