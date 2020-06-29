@@ -1,7 +1,9 @@
 # SegGAN-Poem-torch-PARL
 using PARL reinforement learning framework with torch to implement SegGAN(Chinese Poem generation)
 ## Introduction
-这是一个用SeqGAN生成中文古诗的程序，使用百度的强化学习PARL框架以及pytorch。
+这是一个用SeqGAN生成中文古诗的程序，使用百度的强化学习PARL框架以及pytorch。动态图如下（可以看到刚开始生成的序列结尾不太好，有很多“一”，后续逐渐变好）：
+
+![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/poems.gif)
 
 This is a project that using SeqGAN to generate Chinese Poem, where baidu's reinforcement learning framework PARL(with pytorch) are used.
 
