@@ -136,7 +136,7 @@ def train_generator_PG(gen, dis, rollout, pg_loss, optimizer, epochs, args):
             rewards = rewards.cuda()
 
         # update generator
-        RlAgent.learn(rewards, optimizer)
+        RlAgent.learn(rewards, optimizer, pg_loss)
         # output = gen(inputs)
         # loss = pg_loss(output, targets, rewards)
         # optimizer.zero_grad()
