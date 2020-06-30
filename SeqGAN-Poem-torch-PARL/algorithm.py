@@ -39,14 +39,14 @@ class PolicyGradient(parl.Algorithm):
         """
         return self.model.generator(obs)
 
-    def learn(self, obs, action, reward):
+    def learn(self, obs, action, reward, optimizer, pg_loss):
         """ 用policy gradient 算法更新policy model
         """
 
         # update generator
         act_prob = self.predict(obs)  # 获取generator输出的选词动作概率
-        loss = PGLoss(act_prob, action, reward)
-        gen_optimizer = optim.Adam(params=self.model.generator.parameters(), lr=self.lr)
+        loss = pg_loss(act_prob, action, reward)
+        gen_optimizer = optimizer
         gen_optimizer.zero_grad()
         loss.backward()
         gen_optimizer.step()
