@@ -23,6 +23,8 @@ And this is how SeqGAN works:
 ![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/seqgan.png)
 
 This is how I put SeqGAN into PARL framework:
+![](https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/ReadMePic/PARL-Initialize.png)
+
 * generator is actor/agent, generator.step gives "actions"(how to choose word), generator.sample (MTCS search in SeqGAN) gives the "states"(whole sequence samples) each episode(here one episode ends means the whole sequence are generated)
 
 * discriminator and rollout are critic/environments, which obtain samples/embedding, output rewards  
@@ -31,11 +33,14 @@ This is how I put SeqGAN into PARL framework:
 
 * All PARL-related codes are used in train_generator_PG in main function
 
+![](https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/ReadMePic/PARL-learining-PolicyGradient.png)
+
+
 ## TODOs
-* train using Poems as corpus   -Done
-* using PARL framework   -Done
-* using build-in functions in PARL to substitude some function   -ing
-* increasing training stability   -ing (gen loss in experiment-log are not used, ignore it)
+* train using Poems as corpus   *-Done
+* using PARL framework   *-Done
+* using build-in functions in PARL to substitude some function   *-ing
+* increasing training stability   *-ing (gen loss in experiment-log are not used, ignore it)
 
 ## Thanks
 most of code borrow from https://github.com/X-czh/SeqGAN-PyTorch and https://github.com/TobiasLee/SeqGAN_Poem, but merge them into PARL framework for better 
