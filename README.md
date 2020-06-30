@@ -26,6 +26,8 @@ This is how I put SeqGAN into PARL framework:
 
 * rewards(loss) are used to train critic/env(discriminator) and actor/agent(generator)
 
+* All PARL-related codes are used in train_generator_PG in main function
+
 ## TODOs
 * train using Poems as corpus   -Done
 * using PARL framework   -Done
