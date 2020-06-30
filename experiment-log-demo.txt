@@ -1,0 +1,5320 @@
+#####################################################
+Start pre-training generator with MLE...
+#####################################################
+
+G-Step 0
+Epoch 0, train loss: 7.32421
+eval loss: 11.69532
+
+G-Step 1
+Epoch 0, train loss: 6.98653
+eval loss: 11.71526
+
+G-Step 2
+Epoch 0, train loss: 6.85364
+eval loss: 11.71002
+
+G-Step 3
+Epoch 0, train loss: 6.72731
+eval loss: 11.71086
+
+G-Step 4
+Epoch 0, train loss: 6.61920
+eval loss: 11.69339
+
+G-Step 5
+Epoch 0, train loss: 6.52808
+eval loss: 11.72815
+
+G-Step 6
+Epoch 0, train loss: 6.45284
+eval loss: 11.69354
+
+G-Step 7
+Epoch 0, train loss: 6.37158
+eval loss: 11.67143
+
+G-Step 8
+Epoch 0, train loss: 6.28395
+eval loss: 11.67973
+
+G-Step 9
+Epoch 0, train loss: 6.22536
+eval loss: 11.68627
+
+G-Step 10
+Epoch 0, train loss: 6.16761
+eval loss: 11.68203
+
+G-Step 11
+Epoch 0, train loss: 6.11561
+eval loss: 11.69625
+
+G-Step 12
+Epoch 0, train loss: 6.06382
+eval loss: 11.72001
+
+G-Step 13
+Epoch 0, train loss: 6.01749
+eval loss: 11.67607
+
+G-Step 14
+Epoch 0, train loss: 5.97012
+eval loss: 11.66551
+
+G-Step 15
+Epoch 0, train loss: 5.92739
+eval loss: 11.69131
+
+G-Step 16
+Epoch 0, train loss: 5.87929
+eval loss: 11.66380
+
+G-Step 17
+Epoch 0, train loss: 5.83642
+eval loss: 11.66855
+
+G-Step 18
+Epoch 0, train loss: 5.78968
+eval loss: 11.72698
+
+G-Step 19
+Epoch 0, train loss: 5.74897
+eval loss: 11.70152
+
+G-Step 20
+Epoch 0, train loss: 5.70542
+eval loss: 11.66840
+
+G-Step 21
+Epoch 0, train loss: 5.66613
+eval loss: 11.66155
+
+G-Step 22
+Epoch 0, train loss: 5.63396
+eval loss: 11.70873
+
+G-Step 23
+Epoch 0, train loss: 5.59092
+eval loss: 11.70269
+
+G-Step 24
+Epoch 0, train loss: 5.55554
+eval loss: 11.70019
+
+G-Step 25
+Epoch 0, train loss: 5.52276
+eval loss: 11.66997
+
+G-Step 26
+Epoch 0, train loss: 5.49519
+eval loss: 11.68559
+
+G-Step 27
+Epoch 0, train loss: 5.46197
+eval loss: 11.66884
+
+G-Step 28
+Epoch 0, train loss: 5.43698
+eval loss: 11.67541
+
+G-Step 29
+Epoch 0, train loss: 5.41498
+eval loss: 11.67304
+
+G-Step 30
+Epoch 0, train loss: 5.37726
+eval loss: 11.70227
+
+G-Step 31
+Epoch 0, train loss: 5.34968
+eval loss: 11.69797
+
+G-Step 32
+Epoch 0, train loss: 5.33194
+eval loss: 11.67769
+
+G-Step 33
+Epoch 0, train loss: 5.30454
+eval loss: 11.70124
+
+G-Step 34
+Epoch 0, train loss: 5.28289
+eval loss: 11.68979
+
+G-Step 35
+Epoch 0, train loss: 5.26227
+eval loss: 11.66543
+
+G-Step 36
+Epoch 0, train loss: 5.24271
+eval loss: 11.65941
+
+G-Step 37
+Epoch 0, train loss: 5.22759
+eval loss: 11.64264
+
+G-Step 38
+Epoch 0, train loss: 5.20559
+eval loss: 11.68107
+
+G-Step 39
+Epoch 0, train loss: 5.18190
+eval loss: 11.68751
+
+G-Step 40
+Epoch 0, train loss: 5.17155
+eval loss: 11.67229
+
+G-Step 41
+Epoch 0, train loss: 5.16567
+eval loss: 11.67433
+
+G-Step 42
+Epoch 0, train loss: 5.14368
+eval loss: 11.66140
+
+G-Step 43
+Epoch 0, train loss: 5.12560
+eval loss: 11.69637
+
+G-Step 44
+Epoch 0, train loss: 5.11150
+eval loss: 11.67794
+
+G-Step 45
+Epoch 0, train loss: 5.09964
+eval loss: 11.71038
+
+G-Step 46
+Epoch 0, train loss: 5.08367
+eval loss: 11.67170
+
+G-Step 47
+Epoch 0, train loss: 5.06970
+eval loss: 11.69003
+
+G-Step 48
+Epoch 0, train loss: 5.06169
+eval loss: 11.66075
+
+G-Step 49
+Epoch 0, train loss: 5.04444
+eval loss: 11.70513
+
+G-Step 50
+Epoch 0, train loss: 5.03498
+eval loss: 11.67198
+
+G-Step 51
+Epoch 0, train loss: 5.03700
+eval loss: 11.69311
+
+G-Step 52
+Epoch 0, train loss: 5.02373
+eval loss: 11.66175
+
+G-Step 53
+Epoch 0, train loss: 5.01766
+eval loss: 11.70569
+
+G-Step 54
+Epoch 0, train loss: 4.99342
+eval loss: 11.65128
+
+G-Step 55
+Epoch 0, train loss: 5.01791
+eval loss: 11.69740
+
+G-Step 56
+Epoch 0, train loss: 5.01955
+eval loss: 11.66997
+
+G-Step 57
+Epoch 0, train loss: 5.02273
+eval loss: 11.68961
+
+G-Step 58
+Epoch 0, train loss: 5.00196
+eval loss: 11.68415
+
+G-Step 59
+Epoch 0, train loss: 4.97770
+eval loss: 11.66490
+
+G-Step 60
+Epoch 0, train loss: 4.96972
+eval loss: 11.72679
+
+G-Step 61
+Epoch 0, train loss: 4.94380
+eval loss: 11.67063
+
+G-Step 62
+Epoch 0, train loss: 4.92793
+eval loss: 11.70150
+
+G-Step 63
+Epoch 0, train loss: 4.92845
+eval loss: 11.69000
+
+G-Step 64
+Epoch 0, train loss: 4.92260
+eval loss: 11.69607
+
+G-Step 65
+Epoch 0, train loss: 4.91078
+eval loss: 11.72529
+
+G-Step 66
+Epoch 0, train loss: 4.90706
+eval loss: 11.68448
+
+G-Step 67
+Epoch 0, train loss: 4.93024
+eval loss: 11.70274
+
+G-Step 68
+Epoch 0, train loss: 4.92160
+eval loss: 11.72404
+
+G-Step 69
+Epoch 0, train loss: 4.90436
+eval loss: 11.71724
+
+G-Step 70
+Epoch 0, train loss: 4.90359
+eval loss: 11.70822
+
+G-Step 71
+Epoch 0, train loss: 4.89913
+eval loss: 11.66348
+
+G-Step 72
+Epoch 0, train loss: 4.87746
+eval loss: 11.72705
+
+G-Step 73
+Epoch 0, train loss: 4.86187
+eval loss: 11.70270
+
+G-Step 74
+Epoch 0, train loss: 4.88695
+eval loss: 11.66535
+
+G-Step 75
+Epoch 0, train loss: 4.86734
+eval loss: 11.65448
+
+G-Step 76
+Epoch 0, train loss: 4.85436
+eval loss: 11.68567
+
+G-Step 77
+Epoch 0, train loss: 4.84081
+eval loss: 11.70512
+
+G-Step 78
+Epoch 0, train loss: 4.84657
+eval loss: 11.68376
+
+G-Step 79
+Epoch 0, train loss: 4.84683
+eval loss: 11.72077
+
+G-Step 80
+Epoch 0, train loss: 4.84728
+eval loss: 11.66796
+
+G-Step 81
+Epoch 0, train loss: 4.84240
+eval loss: 11.67684
+
+G-Step 82
+Epoch 0, train loss: 4.83390
+eval loss: 11.68142
+
+G-Step 83
+Epoch 0, train loss: 4.83738
+eval loss: 11.62904
+
+G-Step 84
+Epoch 0, train loss: 4.82758
+eval loss: 11.68753
+
+G-Step 85
+Epoch 0, train loss: 4.81487
+eval loss: 11.71352
+
+G-Step 86
+Epoch 0, train loss: 4.80304
+eval loss: 11.68909
+
+G-Step 87
+Epoch 0, train loss: 4.80791
+eval loss: 11.68120
+
+G-Step 88
+Epoch 0, train loss: 4.80117
+eval loss: 11.65108
+
+G-Step 89
+Epoch 0, train loss: 4.82362
+eval loss: 11.69083
+
+G-Step 90
+Epoch 0, train loss: 4.87144
+eval loss: 11.69703
+
+G-Step 91
+Epoch 0, train loss: 4.83365
+eval loss: 11.68191
+
+G-Step 92
+Epoch 0, train loss: 4.81005
+eval loss: 11.72139
+
+G-Step 93
+Epoch 0, train loss: 4.79517
+eval loss: 11.73100
+
+G-Step 94
+Epoch 0, train loss: 4.79437
+eval loss: 11.69676
+
+G-Step 95
+Epoch 0, train loss: 4.79013
+eval loss: 11.67710
+
+G-Step 96
+Epoch 0, train loss: 4.80679
+eval loss: 11.69105
+
+G-Step 97
+Epoch 0, train loss: 4.79368
+eval loss: 11.65251
+
+G-Step 98
+Epoch 0, train loss: 4.77789
+eval loss: 11.69832
+
+G-Step 99
+Epoch 0, train loss: 4.77563
+eval loss: 11.69942
+
+G-Step 100
+Epoch 0, train loss: 4.77803
+eval loss: 11.66727
+
+G-Step 101
+Epoch 0, train loss: 4.77507
+eval loss: 11.68768
+
+G-Step 102
+Epoch 0, train loss: 4.76210
+eval loss: 11.69236
+
+G-Step 103
+Epoch 0, train loss: 4.75989
+eval loss: 11.67934
+
+G-Step 104
+Epoch 0, train loss: 4.75118
+eval loss: 11.67147
+
+G-Step 105
+Epoch 0, train loss: 4.74661
+eval loss: 11.69181
+
+G-Step 106
+Epoch 0, train loss: 4.74643
+eval loss: 11.68154
+
+G-Step 107
+Epoch 0, train loss: 4.76785
+eval loss: 11.68704
+
+G-Step 108
+Epoch 0, train loss: 4.74882
+eval loss: 11.67155
+
+G-Step 109
+Epoch 0, train loss: 4.75107
+eval loss: 11.66734
+
+G-Step 110
+Epoch 0, train loss: 4.74788
+eval loss: 11.68846
+
+G-Step 111
+Epoch 0, train loss: 4.76140
+eval loss: 11.68661
+
+G-Step 112
+Epoch 0, train loss: 4.75724
+eval loss: 11.68309
+
+G-Step 113
+Epoch 0, train loss: 4.75833
+eval loss: 11.70483
+
+G-Step 114
+Epoch 0, train loss: 4.75011
+eval loss: 11.73857
+
+G-Step 115
+Epoch 0, train loss: 4.72740
+eval loss: 11.68530
+
+G-Step 116
+Epoch 0, train loss: 4.71740
+eval loss: 11.70044
+
+G-Step 117
+Epoch 0, train loss: 4.72594
+eval loss: 11.66951
+
+G-Step 118
+Epoch 0, train loss: 4.75650
+eval loss: 11.68943
+
+G-Step 119
+Epoch 0, train loss: 4.76206
+eval loss: 11.65402
+
+G-Step 120
+Epoch 0, train loss: 4.73147
+eval loss: 11.68886
+
+G-Step 121
+Epoch 0, train loss: 4.72589
+eval loss: 11.67567
+
+G-Step 122
+Epoch 0, train loss: 4.71147
+eval loss: 11.67703
+
+G-Step 123
+Epoch 0, train loss: 4.70641
+eval loss: 11.66779
+
+G-Step 124
+Epoch 0, train loss: 4.90173
+eval loss: 11.69604
+
+G-Step 125
+Epoch 0, train loss: 4.83483
+eval loss: 11.67946
+
+G-Step 126
+Epoch 0, train loss: 4.81757
+eval loss: 11.65749
+
+G-Step 127
+Epoch 0, train loss: 4.76526
+eval loss: 11.73244
+
+G-Step 128
+Epoch 0, train loss: 4.73424
+eval loss: 11.65478
+
+G-Step 129
+Epoch 0, train loss: 4.73156
+eval loss: 11.70619
+
+G-Step 130
+Epoch 0, train loss: 4.73124
+eval loss: 11.69767
+
+G-Step 131
+Epoch 0, train loss: 4.70688
+eval loss: 11.66697
+
+G-Step 132
+Epoch 0, train loss: 4.69768
+eval loss: 11.67714
+
+G-Step 133
+Epoch 0, train loss: 4.68465
+eval loss: 11.67743
+
+G-Step 134
+Epoch 0, train loss: 4.68620
+eval loss: 11.71554
+
+G-Step 135
+Epoch 0, train loss: 4.69776
+eval loss: 11.66483
+
+G-Step 136
+Epoch 0, train loss: 4.69192
+eval loss: 11.68748
+
+G-Step 137
+Epoch 0, train loss: 4.68889
+eval loss: 11.70223
+
+G-Step 138
+Epoch 0, train loss: 4.67195
+eval loss: 11.64380
+
+G-Step 139
+Epoch 0, train loss: 4.67246
+eval loss: 11.66081
+
+G-Step 140
+Epoch 0, train loss: 4.66947
+eval loss: 11.65518
+
+G-Step 141
+Epoch 0, train loss: 4.67958
+eval loss: 11.70790
+
+G-Step 142
+Epoch 0, train loss: 4.67539
+eval loss: 11.66418
+
+G-Step 143
+Epoch 0, train loss: 4.73803
+eval loss: 11.64005
+
+G-Step 144
+Epoch 0, train loss: 4.70279
+eval loss: 11.66837
+
+G-Step 145
+Epoch 0, train loss: 4.73610
+eval loss: 11.66537
+
+G-Step 146
+Epoch 0, train loss: 4.77618
+eval loss: 11.68805
+
+G-Step 147
+Epoch 0, train loss: 4.73291
+eval loss: 11.67393
+
+G-Step 148
+Epoch 0, train loss: 4.70894
+eval loss: 11.69614
+
+G-Step 149
+Epoch 0, train loss: 4.68297
+eval loss: 11.67854
+
+G-Step 150
+Epoch 0, train loss: 4.68173
+eval loss: 11.70451
+
+G-Step 151
+Epoch 0, train loss: 4.69738
+eval loss: 11.68802
+
+G-Step 152
+Epoch 0, train loss: 4.70716
+eval loss: 11.70196
+
+G-Step 153
+Epoch 0, train loss: 4.68561
+eval loss: 11.68876
+
+G-Step 154
+Epoch 0, train loss: 4.66577
+eval loss: 11.66236
+
+G-Step 155
+Epoch 0, train loss: 4.68982
+eval loss: 11.67621
+
+G-Step 156
+Epoch 0, train loss: 4.71594
+eval loss: 11.67527
+
+G-Step 157
+Epoch 0, train loss: 4.69570
+eval loss: 11.66762
+
+G-Step 158
+Epoch 0, train loss: 4.68171
+eval loss: 11.70501
+
+G-Step 159
+Epoch 0, train loss: 4.66916
+eval loss: 11.64355
+
+G-Step 160
+Epoch 0, train loss: 4.67878
+eval loss: 11.69008
+
+G-Step 161
+Epoch 0, train loss: 4.67349
+eval loss: 11.66223
+
+G-Step 162
+Epoch 0, train loss: 4.66457
+eval loss: 11.68723
+
+G-Step 163
+Epoch 0, train loss: 4.65112
+eval loss: 11.69643
+
+G-Step 164
+Epoch 0, train loss: 4.64772
+eval loss: 11.66887
+
+G-Step 165
+Epoch 0, train loss: 4.63643
+eval loss: 11.65907
+
+G-Step 166
+Epoch 0, train loss: 4.62905
+eval loss: 11.68655
+
+G-Step 167
+Epoch 0, train loss: 4.63432
+eval loss: 11.67078
+
+G-Step 168
+Epoch 0, train loss: 4.66171
+eval loss: 11.69147
+
+G-Step 169
+Epoch 0, train loss: 4.65495
+eval loss: 11.71155
+
+G-Step 170
+Epoch 0, train loss: 4.64789
+eval loss: 11.67636
+
+G-Step 171
+Epoch 0, train loss: 4.65186
+eval loss: 11.67451
+
+G-Step 172
+Epoch 0, train loss: 4.65252
+eval loss: 11.70115
+
+G-Step 173
+Epoch 0, train loss: 4.64086
+eval loss: 11.69062
+
+G-Step 174
+Epoch 0, train loss: 4.64317
+eval loss: 11.67593
+
+G-Step 175
+Epoch 0, train loss: 4.65224
+eval loss: 11.66656
+
+G-Step 176
+Epoch 0, train loss: 4.65720
+eval loss: 11.66695
+
+G-Step 177
+Epoch 0, train loss: 4.68136
+eval loss: 11.68044
+
+G-Step 178
+Epoch 0, train loss: 4.67144
+eval loss: 11.65330
+
+G-Step 179
+Epoch 0, train loss: 4.66641
+eval loss: 11.64056
+
+G-Step 180
+Epoch 0, train loss: 4.65764
+eval loss: 11.68085
+
+G-Step 181
+Epoch 0, train loss: 4.65214
+eval loss: 11.70262
+
+G-Step 182
+Epoch 0, train loss: 4.65785
+eval loss: 11.66582
+
+G-Step 183
+Epoch 0, train loss: 4.64341
+eval loss: 11.65638
+
+G-Step 184
+Epoch 0, train loss: 4.71407
+eval loss: 11.70395
+
+G-Step 185
+Epoch 0, train loss: 4.81892
+eval loss: 11.68815
+
+G-Step 186
+Epoch 0, train loss: 4.74695
+eval loss: 11.64465
+
+G-Step 187
+Epoch 0, train loss: 4.70415
+eval loss: 11.66934
+
+G-Step 188
+Epoch 0, train loss: 4.67143
+eval loss: 11.66964
+
+G-Step 189
+Epoch 0, train loss: 4.65662
+eval loss: 11.68614
+
+G-Step 190
+Epoch 0, train loss: 4.68302
+eval loss: 11.67831
+
+G-Step 191
+Epoch 0, train loss: 4.65258
+eval loss: 11.67787
+
+G-Step 192
+Epoch 0, train loss: 4.64105
+eval loss: 11.67775
+
+G-Step 193
+Epoch 0, train loss: 4.63317
+eval loss: 11.66613
+
+G-Step 194
+Epoch 0, train loss: 4.61514
+eval loss: 11.67107
+
+G-Step 195
+Epoch 0, train loss: 4.61301
+eval loss: 11.70820
+
+G-Step 196
+Epoch 0, train loss: 4.62872
+eval loss: 11.66568
+
+G-Step 197
+Epoch 0, train loss: 4.77535
+eval loss: 11.69743
+
+G-Step 198
+Epoch 0, train loss: 4.72169
+eval loss: 11.64983
+
+G-Step 199
+Epoch 0, train loss: 4.71394
+eval loss: 11.67941
+
+G-Step 200
+Epoch 0, train loss: 4.66231
+eval loss: 11.67777
+
+G-Step 201
+Epoch 0, train loss: 4.64064
+eval loss: 11.69210
+
+G-Step 202
+Epoch 0, train loss: 4.61403
+eval loss: 11.68724
+
+G-Step 203
+Epoch 0, train loss: 4.62750
+eval loss: 11.72079
+
+G-Step 204
+Epoch 0, train loss: 4.61652
+eval loss: 11.67289
+
+G-Step 205
+Epoch 0, train loss: 4.60418
+eval loss: 11.66478
+
+G-Step 206
+Epoch 0, train loss: 4.62393
+eval loss: 11.69906
+
+G-Step 207
+Epoch 0, train loss: 4.62559
+eval loss: 11.70442
+
+G-Step 208
+Epoch 0, train loss: 4.63123
+eval loss: 11.69648
+
+G-Step 209
+Epoch 0, train loss: 4.62134
+eval loss: 11.69339
+
+G-Step 210
+Epoch 0, train loss: 4.62797
+eval loss: 11.70376
+
+G-Step 211
+Epoch 0, train loss: 4.63084
+eval loss: 11.67488
+
+G-Step 212
+Epoch 0, train loss: 4.61907
+eval loss: 11.64082
+
+G-Step 213
+Epoch 0, train loss: 4.62733
+eval loss: 11.66900
+
+G-Step 214
+Epoch 0, train loss: 4.62824
+eval loss: 11.65201
+
+G-Step 215
+Epoch 0, train loss: 4.66785
+eval loss: 11.65326
+
+G-Step 216
+Epoch 0, train loss: 4.66013
+eval loss: 11.65538
+
+G-Step 217
+Epoch 0, train loss: 4.64001
+eval loss: 11.67677
+
+G-Step 218
+Epoch 0, train loss: 4.61751
+eval loss: 11.67680
+
+G-Step 219
+Epoch 0, train loss: 4.62497
+eval loss: 11.65267
+
+G-Step 220
+Epoch 0, train loss: 4.67681
+eval loss: 11.67984
+
+G-Step 221
+Epoch 0, train loss: 4.70700
+eval loss: 11.68127
+
+G-Step 222
+Epoch 0, train loss: 4.70321
+eval loss: 11.68149
+
+G-Step 223
+Epoch 0, train loss: 4.66151
+eval loss: 11.64745
+
+G-Step 224
+Epoch 0, train loss: 4.63309
+eval loss: 11.64930
+
+G-Step 225
+Epoch 0, train loss: 4.60471
+eval loss: 11.69272
+
+G-Step 226
+Epoch 0, train loss: 4.62134
+eval loss: 11.67015
+
+G-Step 227
+Epoch 0, train loss: 4.60852
+eval loss: 11.66999
+
+G-Step 228
+Epoch 0, train loss: 4.60082
+eval loss: 11.67810
+
+G-Step 229
+Epoch 0, train loss: 4.59222
+eval loss: 11.67889
+
+G-Step 230
+Epoch 0, train loss: 4.58393
+eval loss: 11.66783
+
+G-Step 231
+Epoch 0, train loss: 4.58198
+eval loss: 11.66436
+
+G-Step 232
+Epoch 0, train loss: 4.61805
+eval loss: 11.69083
+
+G-Step 233
+Epoch 0, train loss: 4.61066
+eval loss: 11.65821
+
+G-Step 234
+Epoch 0, train loss: 4.58695
+eval loss: 11.65776
+
+G-Step 235
+Epoch 0, train loss: 4.60346
+eval loss: 11.69905
+
+G-Step 236
+Epoch 0, train loss: 4.61741
+eval loss: 11.69540
+
+G-Step 237
+Epoch 0, train loss: 4.63811
+eval loss: 11.66817
+
+G-Step 238
+Epoch 0, train loss: 4.60109
+eval loss: 11.66550
+
+G-Step 239
+Epoch 0, train loss: 4.59750
+eval loss: 11.70528
+
+G-Step 240
+Epoch 0, train loss: 4.58516
+eval loss: 11.66517
+
+G-Step 241
+Epoch 0, train loss: 4.61089
+eval loss: 11.64261
+
+G-Step 242
+Epoch 0, train loss: 4.61563
+eval loss: 11.65470
+
+G-Step 243
+Epoch 0, train loss: 4.60827
+eval loss: 11.68889
+
+G-Step 244
+Epoch 0, train loss: 4.61120
+eval loss: 11.68570
+
+G-Step 245
+Epoch 0, train loss: 4.60157
+eval loss: 11.65220
+
+G-Step 246
+Epoch 0, train loss: 4.62553
+eval loss: 11.66939
+
+G-Step 247
+Epoch 0, train loss: 5.09058
+eval loss: 11.69517
+
+G-Step 248
+Epoch 0, train loss: 4.95907
+eval loss: 11.72816
+
+G-Step 249
+Epoch 0, train loss: 4.87483
+eval loss: 11.68749
+
+G-Step 250
+Epoch 0, train loss: 4.98038
+eval loss: 11.66784
+
+G-Step 251
+Epoch 0, train loss: 4.94581
+eval loss: 11.66947
+
+G-Step 252
+Epoch 0, train loss: 4.82443
+eval loss: 11.67698
+
+G-Step 253
+Epoch 0, train loss: 4.75206
+eval loss: 11.67041
+
+G-Step 254
+Epoch 0, train loss: 4.69665
+eval loss: 11.67841
+
+G-Step 255
+Epoch 0, train loss: 4.67751
+eval loss: 11.67624
+
+G-Step 256
+Epoch 0, train loss: 4.65681
+eval loss: 11.65323
+
+G-Step 257
+Epoch 0, train loss: 4.63271
+eval loss: 11.67463
+
+G-Step 258
+Epoch 0, train loss: 4.64182
+eval loss: 11.69327
+
+G-Step 259
+Epoch 0, train loss: 4.64086
+eval loss: 11.67191
+
+G-Step 260
+Epoch 0, train loss: 4.61688
+eval loss: 11.67656
+
+G-Step 261
+Epoch 0, train loss: 4.60889
+eval loss: 11.69466
+
+G-Step 262
+Epoch 0, train loss: 4.59793
+eval loss: 11.65699
+
+G-Step 263
+Epoch 0, train loss: 4.58552
+eval loss: 11.67327
+
+G-Step 264
+Epoch 0, train loss: 4.59713
+eval loss: 11.66405
+
+G-Step 265
+Epoch 0, train loss: 4.59507
+eval loss: 11.66383
+
+G-Step 266
+Epoch 0, train loss: 4.58988
+eval loss: 11.65260
+
+G-Step 267
+Epoch 0, train loss: 4.63985
+eval loss: 11.67412
+
+G-Step 268
+Epoch 0, train loss: 4.66516
+eval loss: 11.63832
+
+G-Step 269
+Epoch 0, train loss: 4.65390
+eval loss: 11.66738
+
+G-Step 270
+Epoch 0, train loss: 4.63541
+eval loss: 11.70014
+
+G-Step 271
+Epoch 0, train loss: 4.61887
+eval loss: 11.67477
+
+G-Step 272
+Epoch 0, train loss: 4.60890
+eval loss: 11.64317
+
+G-Step 273
+Epoch 0, train loss: 4.59238
+eval loss: 11.68377
+
+G-Step 274
+Epoch 0, train loss: 4.59530
+eval loss: 11.65353
+
+G-Step 275
+Epoch 0, train loss: 4.59036
+eval loss: 11.66984
+
+G-Step 276
+Epoch 0, train loss: 4.58255
+eval loss: 11.67775
+
+G-Step 277
+Epoch 0, train loss: 4.60226
+eval loss: 11.68726
+
+G-Step 278
+Epoch 0, train loss: 4.59353
+eval loss: 11.65641
+
+G-Step 279
+Epoch 0, train loss: 4.58943
+eval loss: 11.66507
+
+G-Step 280
+Epoch 0, train loss: 4.59792
+eval loss: 11.64500
+
+G-Step 281
+Epoch 0, train loss: 4.59517
+eval loss: 11.67443
+
+G-Step 282
+Epoch 0, train loss: 4.60030
+eval loss: 11.67051
+
+G-Step 283
+Epoch 0, train loss: 4.71004
+eval loss: 11.68807
+
+G-Step 284
+Epoch 0, train loss: 4.70961
+eval loss: 11.67059
+
+G-Step 285
+Epoch 0, train loss: 4.64878
+eval loss: 11.68626
+
+G-Step 286
+Epoch 0, train loss: 4.65513
+eval loss: 11.67359
+
+G-Step 287
+Epoch 0, train loss: 4.61323
+eval loss: 11.67935
+
+G-Step 288
+Epoch 0, train loss: 4.60544
+eval loss: 11.67015
+
+G-Step 289
+Epoch 0, train loss: 4.60662
+eval loss: 11.69044
+
+G-Step 290
+Epoch 0, train loss: 4.61452
+eval loss: 11.66823
+
+G-Step 291
+Epoch 0, train loss: 4.59684
+eval loss: 11.67828
+
+G-Step 292
+Epoch 0, train loss: 4.61044
+eval loss: 11.64784
+
+G-Step 293
+Epoch 0, train loss: 4.61630
+eval loss: 11.68314
+
+G-Step 294
+Epoch 0, train loss: 4.60133
+eval loss: 11.68947
+
+G-Step 295
+Epoch 0, train loss: 4.59051
+eval loss: 11.66289
+
+G-Step 296
+Epoch 0, train loss: 4.57087
+eval loss: 11.70781
+
+G-Step 297
+Epoch 0, train loss: 4.57105
+eval loss: 11.70280
+
+G-Step 298
+Epoch 0, train loss: 4.59876
+eval loss: 11.67074
+
+G-Step 299
+Epoch 0, train loss: 4.59978
+eval loss: 11.65417
+
+G-Step 300
+Epoch 0, train loss: 4.59463
+eval loss: 11.65489
+
+G-Step 301
+Epoch 0, train loss: 4.60773
+eval loss: 11.65789
+
+G-Step 302
+Epoch 0, train loss: 4.61884
+eval loss: 11.69889
+
+G-Step 303
+Epoch 0, train loss: 4.68489
+eval loss: 11.67550
+
+G-Step 304
+Epoch 0, train loss: 4.68470
+eval loss: 11.67286
+
+G-Step 305
+Epoch 0, train loss: 4.74375
+eval loss: 11.68967
+
+G-Step 306
+Epoch 0, train loss: 4.69919
+eval loss: 11.65442
+
+G-Step 307
+Epoch 0, train loss: 4.65230
+eval loss: 11.66313
+
+G-Step 308
+Epoch 0, train loss: 4.63539
+eval loss: 11.62997
+
+G-Step 309
+Epoch 0, train loss: 4.64700
+eval loss: 11.66113
+
+G-Step 310
+Epoch 0, train loss: 4.60458
+eval loss: 11.66501
+
+G-Step 311
+Epoch 0, train loss: 4.58258
+eval loss: 11.68868
+
+G-Step 312
+Epoch 0, train loss: 4.56707
+eval loss: 11.69144
+
+G-Step 313
+Epoch 0, train loss: 4.55707
+eval loss: 11.66766
+
+G-Step 314
+Epoch 0, train loss: 4.57116
+eval loss: 11.68536
+
+G-Step 315
+Epoch 0, train loss: 4.56720
+eval loss: 11.65861
+
+G-Step 316
+Epoch 0, train loss: 4.56586
+eval loss: 11.67360
+
+G-Step 317
+Epoch 0, train loss: 4.65281
+eval loss: 11.66778
+
+G-Step 318
+Epoch 0, train loss: 4.70308
+eval loss: 11.68606
+
+G-Step 319
+Epoch 0, train loss: 4.67545
+eval loss: 11.67433
+
+G-Step 320
+Epoch 0, train loss: 4.72185
+eval loss: 11.68307
+
+G-Step 321
+Epoch 0, train loss: 4.65949
+eval loss: 11.69169
+
+G-Step 322
+Epoch 0, train loss: 4.62970
+eval loss: 11.68425
+
+G-Step 323
+Epoch 0, train loss: 4.66233
+eval loss: 11.66408
+
+G-Step 324
+Epoch 0, train loss: 4.63975
+eval loss: 11.65554
+
+G-Step 325
+Epoch 0, train loss: 4.59603
+eval loss: 11.69447
+
+G-Step 326
+Epoch 0, train loss: 4.56106
+eval loss: 11.69609
+
+G-Step 327
+Epoch 0, train loss: 4.54733
+eval loss: 11.64425
+
+G-Step 328
+Epoch 0, train loss: 4.53648
+eval loss: 11.67959
+
+G-Step 329
+Epoch 0, train loss: 4.53654
+eval loss: 11.66038
+
+G-Step 330
+Epoch 0, train loss: 4.53560
+eval loss: 11.63588
+
+G-Step 331
+Epoch 0, train loss: 4.53596
+eval loss: 11.66442
+
+G-Step 332
+Epoch 0, train loss: 4.55102
+eval loss: 11.65291
+
+G-Step 333
+Epoch 0, train loss: 4.54894
+eval loss: 11.72167
+
+G-Step 334
+Epoch 0, train loss: 4.54140
+eval loss: 11.69141
+
+G-Step 335
+Epoch 0, train loss: 4.56617
+eval loss: 11.67055
+
+G-Step 336
+Epoch 0, train loss: 4.57170
+eval loss: 11.68224
+
+G-Step 337
+Epoch 0, train loss: 4.58334
+eval loss: 11.65535
+
+G-Step 338
+Epoch 0, train loss: 4.58125
+eval loss: 11.64182
+
+G-Step 339
+Epoch 0, train loss: 4.59019
+eval loss: 11.62953
+
+G-Step 340
+Epoch 0, train loss: 4.59451
+eval loss: 11.65030
+
+G-Step 341
+Epoch 0, train loss: 4.66132
+eval loss: 11.65935
+
+G-Step 342
+Epoch 0, train loss: 4.67470
+eval loss: 11.66617
+
+G-Step 343
+Epoch 0, train loss: 4.64976
+eval loss: 11.66069
+
+G-Step 344
+Epoch 0, train loss: 4.61983
+eval loss: 11.69015
+
+G-Step 345
+Epoch 0, train loss: 4.62341
+eval loss: 11.69478
+
+G-Step 346
+Epoch 0, train loss: 4.59266
+eval loss: 11.65598
+
+G-Step 347
+Epoch 0, train loss: 4.59129
+eval loss: 11.68290
+
+G-Step 348
+Epoch 0, train loss: 4.55881
+eval loss: 11.68690
+
+G-Step 349
+Epoch 0, train loss: 4.55379
+eval loss: 11.65042
+
+G-Step 350
+Epoch 0, train loss: 4.54401
+eval loss: 11.65775
+
+G-Step 351
+Epoch 0, train loss: 4.54794
+eval loss: 11.71258
+
+G-Step 352
+Epoch 0, train loss: 4.57834
+eval loss: 11.66690
+
+G-Step 353
+Epoch 0, train loss: 4.59509
+eval loss: 11.72792
+
+G-Step 354
+Epoch 0, train loss: 4.62121
+eval loss: 11.64085
+
+G-Step 355
+Epoch 0, train loss: 4.62168
+eval loss: 11.64634
+
+G-Step 356
+Epoch 0, train loss: 4.65373
+eval loss: 11.65656
+
+G-Step 357
+Epoch 0, train loss: 4.73967
+eval loss: 11.64755
+
+G-Step 358
+Epoch 0, train loss: 4.71899
+eval loss: 11.66385
+
+G-Step 359
+Epoch 0, train loss: 4.66348
+eval loss: 11.68219
+
+G-Step 360
+Epoch 0, train loss: 4.62645
+eval loss: 11.66302
+
+G-Step 361
+Epoch 0, train loss: 4.66222
+eval loss: 11.70274
+
+G-Step 362
+Epoch 0, train loss: 4.62755
+eval loss: 11.68007
+
+G-Step 363
+Epoch 0, train loss: 4.60242
+eval loss: 11.68592
+
+G-Step 364
+Epoch 0, train loss: 4.59142
+eval loss: 11.66937
+
+G-Step 365
+Epoch 0, train loss: 4.59965
+eval loss: 11.67812
+
+G-Step 366
+Epoch 0, train loss: 4.59854
+eval loss: 11.66877
+
+G-Step 367
+Epoch 0, train loss: 4.56101
+eval loss: 11.67368
+
+G-Step 368
+Epoch 0, train loss: 4.54240
+eval loss: 11.67740
+
+G-Step 369
+Epoch 0, train loss: 4.53522
+eval loss: 11.66436
+
+G-Step 370
+Epoch 0, train loss: 4.52093
+eval loss: 11.68610
+
+G-Step 371
+Epoch 0, train loss: 4.53812
+eval loss: 11.70500
+
+G-Step 372
+Epoch 0, train loss: 4.63205
+eval loss: 11.67464
+
+G-Step 373
+Epoch 0, train loss: 4.71233
+eval loss: 11.67649
+
+G-Step 374
+Epoch 0, train loss: 4.77905
+eval loss: 11.66217
+
+G-Step 375
+Epoch 0, train loss: 4.98078
+eval loss: 11.69289
+
+G-Step 376
+Epoch 0, train loss: 4.84502
+eval loss: 11.68444
+
+G-Step 377
+Epoch 0, train loss: 4.73205
+eval loss: 11.65134
+
+G-Step 378
+Epoch 0, train loss: 4.68147
+eval loss: 11.65095
+
+G-Step 379
+Epoch 0, train loss: 4.62107
+eval loss: 11.66496
+
+G-Step 380
+Epoch 0, train loss: 4.58979
+eval loss: 11.69408
+
+G-Step 381
+Epoch 0, train loss: 4.57410
+eval loss: 11.68086
+
+G-Step 382
+Epoch 0, train loss: 4.57716
+eval loss: 11.65831
+
+G-Step 383
+Epoch 0, train loss: 4.56514
+eval loss: 11.66236
+
+G-Step 384
+Epoch 0, train loss: 4.55893
+eval loss: 11.66280
+
+G-Step 385
+Epoch 0, train loss: 4.53716
+eval loss: 11.65284
+
+G-Step 386
+Epoch 0, train loss: 4.53607
+eval loss: 11.66395
+
+G-Step 387
+Epoch 0, train loss: 4.53894
+eval loss: 11.66896
+
+G-Step 388
+Epoch 0, train loss: 4.55312
+eval loss: 11.65484
+
+G-Step 389
+Epoch 0, train loss: 4.54384
+eval loss: 11.68159
+
+G-Step 390
+Epoch 0, train loss: 4.58277
+eval loss: 11.67638
+
+G-Step 391
+Epoch 0, train loss: 4.61303
+eval loss: 11.68295
+
+G-Step 392
+Epoch 0, train loss: 4.61609
+eval loss: 11.66489
+
+G-Step 393
+Epoch 0, train loss: 4.57897
+eval loss: 11.70001
+
+G-Step 394
+Epoch 0, train loss: 4.56261
+eval loss: 11.67196
+
+G-Step 395
+Epoch 0, train loss: 4.54943
+eval loss: 11.64324
+
+G-Step 396
+Epoch 0, train loss: 4.54150
+eval loss: 11.68609
+
+G-Step 397
+Epoch 0, train loss: 4.53193
+eval loss: 11.66609
+
+G-Step 398
+Epoch 0, train loss: 4.53670
+eval loss: 11.67936
+
+G-Step 399
+Epoch 0, train loss: 4.54676
+eval loss: 11.65789
+
+G-Step 400
+Epoch 0, train loss: 4.54368
+eval loss: 11.66511
+
+G-Step 401
+Epoch 0, train loss: 4.59180
+eval loss: 11.66518
+
+G-Step 402
+Epoch 0, train loss: 4.56325
+eval loss: 11.66452
+
+G-Step 403
+Epoch 0, train loss: 4.55062
+eval loss: 11.64010
+
+G-Step 404
+Epoch 0, train loss: 4.55089
+eval loss: 11.67563
+
+G-Step 405
+Epoch 0, train loss: 4.57323
+eval loss: 11.67289
+
+G-Step 406
+Epoch 0, train loss: 4.58392
+eval loss: 11.64293
+
+G-Step 407
+Epoch 0, train loss: 4.58134
+eval loss: 11.68568
+
+G-Step 408
+Epoch 0, train loss: 4.57756
+eval loss: 11.66287
+
+G-Step 409
+Epoch 0, train loss: 4.56667
+eval loss: 11.65737
+
+G-Step 410
+Epoch 0, train loss: 4.55559
+eval loss: 11.69579
+
+G-Step 411
+Epoch 0, train loss: 4.57446
+eval loss: 11.68599
+
+G-Step 412
+Epoch 0, train loss: 4.73100
+eval loss: 11.65671
+
+G-Step 413
+Epoch 0, train loss: 4.72248
+eval loss: 11.66368
+
+G-Step 414
+Epoch 0, train loss: 4.63534
+eval loss: 11.65210
+
+G-Step 415
+Epoch 0, train loss: 4.60658
+eval loss: 11.68219
+
+G-Step 416
+Epoch 0, train loss: 4.61546
+eval loss: 11.66039
+
+G-Step 417
+Epoch 0, train loss: 4.61344
+eval loss: 11.64940
+
+G-Step 418
+Epoch 0, train loss: 4.60783
+eval loss: 11.65355
+
+G-Step 419
+Epoch 0, train loss: 4.60181
+eval loss: 11.68103
+
+G-Step 420
+Epoch 0, train loss: 4.57708
+eval loss: 11.68201
+
+G-Step 421
+Epoch 0, train loss: 4.57674
+eval loss: 11.67640
+
+G-Step 422
+Epoch 0, train loss: 4.58572
+eval loss: 11.70089
+
+G-Step 423
+Epoch 0, train loss: 4.58193
+eval loss: 11.65287
+
+G-Step 424
+Epoch 0, train loss: 4.58635
+eval loss: 11.66592
+
+G-Step 425
+Epoch 0, train loss: 4.63697
+eval loss: 11.64099
+
+G-Step 426
+Epoch 0, train loss: 4.59850
+eval loss: 11.64792
+
+G-Step 427
+Epoch 0, train loss: 4.64628
+eval loss: 11.67058
+
+G-Step 428
+Epoch 0, train loss: 4.64975
+eval loss: 11.65738
+
+G-Step 429
+Epoch 0, train loss: 4.64025
+eval loss: 11.66186
+
+G-Step 430
+Epoch 0, train loss: 4.69489
+eval loss: 11.63896
+
+G-Step 431
+Epoch 0, train loss: 4.64401
+eval loss: 11.65291
+
+G-Step 432
+Epoch 0, train loss: 4.59431
+eval loss: 11.65720
+
+G-Step 433
+Epoch 0, train loss: 4.57501
+eval loss: 11.65690
+
+G-Step 434
+Epoch 0, train loss: 4.56162
+eval loss: 11.70270
+
+G-Step 435
+Epoch 0, train loss: 4.56178
+eval loss: 11.65750
+
+G-Step 436
+Epoch 0, train loss: 4.55851
+eval loss: 11.67694
+
+G-Step 437
+Epoch 0, train loss: 4.59983
+eval loss: 11.64757
+
+G-Step 438
+Epoch 0, train loss: 4.62001
+eval loss: 11.66900
+
+G-Step 439
+Epoch 0, train loss: 4.58355
+eval loss: 11.65949
+
+G-Step 440
+Epoch 0, train loss: 4.55338
+eval loss: 11.67587
+
+G-Step 441
+Epoch 0, train loss: 4.58646
+eval loss: 11.64315
+
+G-Step 442
+Epoch 0, train loss: 4.59979
+eval loss: 11.66508
+
+G-Step 443
+Epoch 0, train loss: 4.57349
+eval loss: 11.66402
+
+G-Step 444
+Epoch 0, train loss: 4.56943
+eval loss: 11.65367
+
+G-Step 445
+Epoch 0, train loss: 4.54959
+eval loss: 11.69643
+
+G-Step 446
+Epoch 0, train loss: 4.55286
+eval loss: 11.65787
+
+G-Step 447
+Epoch 0, train loss: 4.56678
+eval loss: 11.66048
+
+G-Step 448
+Epoch 0, train loss: 4.55830
+eval loss: 11.64434
+
+G-Step 449
+Epoch 0, train loss: 4.54051
+eval loss: 11.67888
+
+G-Step 450
+Epoch 0, train loss: 4.54309
+eval loss: 11.65181
+
+G-Step 451
+Epoch 0, train loss: 4.56780
+eval loss: 11.64941
+
+G-Step 452
+Epoch 0, train loss: 4.57253
+eval loss: 11.64485
+
+G-Step 453
+Epoch 0, train loss: 4.56151
+eval loss: 11.70067
+
+G-Step 454
+Epoch 0, train loss: 4.58292
+eval loss: 11.69494
+
+G-Step 455
+Epoch 0, train loss: 4.54076
+eval loss: 11.67244
+
+G-Step 456
+Epoch 0, train loss: 4.53195
+eval loss: 11.65402
+
+G-Step 457
+Epoch 0, train loss: 4.58583
+eval loss: 11.64632
+
+G-Step 458
+Epoch 0, train loss: 4.62148
+eval loss: 11.63465
+
+G-Step 459
+Epoch 0, train loss: 4.66828
+eval loss: 11.67756
+
+G-Step 460
+Epoch 0, train loss: 4.66554
+eval loss: 11.64463
+
+G-Step 461
+Epoch 0, train loss: 4.62322
+eval loss: 11.65809
+
+G-Step 462
+Epoch 0, train loss: 4.76056
+eval loss: 11.65010
+
+G-Step 463
+Epoch 0, train loss: 4.77019
+eval loss: 11.67633
+
+G-Step 464
+Epoch 0, train loss: 4.71472
+eval loss: 11.72537
+
+G-Step 465
+Epoch 0, train loss: 4.68636
+eval loss: 11.65672
+
+G-Step 466
+Epoch 0, train loss: 4.96261
+eval loss: 11.66700
+
+G-Step 467
+Epoch 0, train loss: 4.88155
+eval loss: 11.64827
+
+G-Step 468
+Epoch 0, train loss: 4.75946
+eval loss: 11.66155
+
+G-Step 469
+Epoch 0, train loss: 4.69956
+eval loss: 11.64691
+
+G-Step 470
+Epoch 0, train loss: 4.65987
+eval loss: 11.69690
+
+G-Step 471
+Epoch 0, train loss: 4.63300
+eval loss: 11.64367
+
+G-Step 472
+Epoch 0, train loss: 4.61180
+eval loss: 11.67929
+
+G-Step 473
+Epoch 0, train loss: 4.60833
+eval loss: 11.65167
+
+G-Step 474
+Epoch 0, train loss: 4.58110
+eval loss: 11.67110
+
+G-Step 475
+Epoch 0, train loss: 4.56775
+eval loss: 11.66106
+
+G-Step 476
+Epoch 0, train loss: 4.55159
+eval loss: 11.68451
+
+G-Step 477
+Epoch 0, train loss: 4.53911
+eval loss: 11.65812
+
+G-Step 478
+Epoch 0, train loss: 4.57343
+eval loss: 11.69075
+
+G-Step 479
+Epoch 0, train loss: 4.57247
+eval loss: 11.66240
+
+G-Step 480
+Epoch 0, train loss: 4.55874
+eval loss: 11.68022
+
+G-Step 481
+Epoch 0, train loss: 4.53525
+eval loss: 11.64434
+
+G-Step 482
+Epoch 0, train loss: 4.52995
+eval loss: 11.65552
+
+G-Step 483
+Epoch 0, train loss: 4.53097
+eval loss: 11.66609
+
+G-Step 484
+Epoch 0, train loss: 4.52581
+eval loss: 11.64219
+
+G-Step 485
+Epoch 0, train loss: 4.53082
+eval loss: 11.68252
+
+G-Step 486
+Epoch 0, train loss: 4.52267
+eval loss: 11.67495
+
+G-Step 487
+Epoch 0, train loss: 4.51977
+eval loss: 11.67047
+
+G-Step 488
+Epoch 0, train loss: 4.53242
+eval loss: 11.65402
+
+G-Step 489
+Epoch 0, train loss: 4.54096
+eval loss: 11.68836
+
+G-Step 490
+Epoch 0, train loss: 4.55589
+eval loss: 11.66272
+
+G-Step 491
+Epoch 0, train loss: 4.54178
+eval loss: 11.65878
+
+G-Step 492
+Epoch 0, train loss: 4.57704
+eval loss: 11.66667
+
+G-Step 493
+Epoch 0, train loss: 4.62735
+eval loss: 11.65475
+
+G-Step 494
+Epoch 0, train loss: 4.62357
+eval loss: 11.69013
+
+G-Step 495
+Epoch 0, train loss: 4.66122
+eval loss: 11.64469
+
+G-Step 496
+Epoch 0, train loss: 4.65811
+eval loss: 11.67297
+
+G-Step 497
+Epoch 0, train loss: 4.66439
+eval loss: 11.64286
+
+G-Step 498
+Epoch 0, train loss: 4.62560
+eval loss: 11.66424
+
+G-Step 499
+Epoch 0, train loss: 4.66650
+eval loss: 11.65207
+
+#####################################################
+
+
+#####################################################
+Start pre-training discriminator...
+#####################################################
+
+D-Step 0
+/media/opt/virtualenv/tf-g-1.12/lib/python3.6/site-packages/torch/nn/functional.py:1351: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Epoch 0, train loss: 0.60898, train acc: 0.691
+Epoch 1, train loss: 0.56110, train acc: 0.758
+Epoch 2, train loss: 0.56327, train acc: 0.758
+eval loss: 0.55956, eval acc: 0.758
+
+D-Step 1
+Epoch 0, train loss: 0.56143, train acc: 0.758
+Epoch 1, train loss: 0.56158, train acc: 0.757
+Epoch 2, train loss: 0.56068, train acc: 0.758
+eval loss: 0.56298, eval acc: 0.758
+
+D-Step 2
+Epoch 0, train loss: 0.56557, train acc: 0.757
+Epoch 1, train loss: 0.56628, train acc: 0.758
+Epoch 2, train loss: 0.55804, train acc: 0.757
+eval loss: 0.56114, eval acc: 0.758
+
+D-Step 3
+Epoch 0, train loss: 0.55997, train acc: 0.757
+Epoch 1, train loss: 0.56375, train acc: 0.758
+Epoch 2, train loss: 0.56124, train acc: 0.757
+eval loss: 0.56028, eval acc: 0.758
+
+D-Step 4
+Epoch 0, train loss: 0.56099, train acc: 0.758
+Epoch 1, train loss: 0.56438, train acc: 0.758
+Epoch 2, train loss: 0.56430, train acc: 0.758
+eval loss: 0.55852, eval acc: 0.758
+
+D-Step 5
+Epoch 0, train loss: 0.56435, train acc: 0.758
+Epoch 1, train loss: 0.56663, train acc: 0.757
+Epoch 2, train loss: 0.56550, train acc: 0.758
+eval loss: 0.56398, eval acc: 0.758
+
+D-Step 6
+Epoch 0, train loss: 0.56146, train acc: 0.757
+Epoch 1, train loss: 0.56285, train acc: 0.758
+Epoch 2, train loss: 0.56416, train acc: 0.758
+eval loss: 0.55993, eval acc: 0.757
+
+D-Step 7
+Epoch 0, train loss: 0.56244, train acc: 0.758
+Epoch 1, train loss: 0.56326, train acc: 0.757
+Epoch 2, train loss: 0.56278, train acc: 0.758
+eval loss: 0.56107, eval acc: 0.758
+
+D-Step 8
+Epoch 0, train loss: 0.56312, train acc: 0.758
+Epoch 1, train loss: 0.56128, train acc: 0.758
+Epoch 2, train loss: 0.56456, train acc: 0.757
+eval loss: 0.55911, eval acc: 0.758
+
+D-Step 9
+Epoch 0, train loss: 0.56531, train acc: 0.758
+Epoch 1, train loss: 0.56022, train acc: 0.757
+Epoch 2, train loss: 0.55754, train acc: 0.758
+eval loss: 0.56394, eval acc: 0.758
+
+D-Step 10
+Epoch 0, train loss: 0.56217, train acc: 0.758
+Epoch 1, train loss: 0.56610, train acc: 0.758
+Epoch 2, train loss: 0.56219, train acc: 0.757
+eval loss: 0.56022, eval acc: 0.758
+
+D-Step 11
+Epoch 0, train loss: 0.55827, train acc: 0.758
+Epoch 1, train loss: 0.55987, train acc: 0.758
+Epoch 2, train loss: 0.56285, train acc: 0.757
+eval loss: 0.55924, eval acc: 0.758
+
+D-Step 12
+Epoch 0, train loss: 0.56484, train acc: 0.757
+Epoch 1, train loss: 0.56310, train acc: 0.758
+Epoch 2, train loss: 0.56615, train acc: 0.758
+eval loss: 0.55970, eval acc: 0.757
+
+D-Step 13
+Epoch 0, train loss: 0.56289, train acc: 0.758
+Epoch 1, train loss: 0.56221, train acc: 0.758
+Epoch 2, train loss: 0.56228, train acc: 0.758
+eval loss: 0.56239, eval acc: 0.758
+
+D-Step 14
+Epoch 0, train loss: 0.56134, train acc: 0.757
+Epoch 1, train loss: 0.56873, train acc: 0.758
+Epoch 2, train loss: 0.56101, train acc: 0.758
+eval loss: 0.56078, eval acc: 0.758
+
+D-Step 15
+Epoch 0, train loss: 0.56062, train acc: 0.758
+Epoch 1, train loss: 0.56093, train acc: 0.758
+Epoch 2, train loss: 0.56273, train acc: 0.758
+eval loss: 0.55939, eval acc: 0.758
+
+D-Step 16
+Epoch 0, train loss: 0.56089, train acc: 0.758
+Epoch 1, train loss: 0.56042, train acc: 0.758
+Epoch 2, train loss: 0.55978, train acc: 0.758
+eval loss: 0.55994, eval acc: 0.758
+
+D-Step 17
+Epoch 0, train loss: 0.56253, train acc: 0.758
+Epoch 1, train loss: 0.56044, train acc: 0.758
+Epoch 2, train loss: 0.55809, train acc: 0.758
+eval loss: 0.56115, eval acc: 0.758
+
+D-Step 18
+Epoch 0, train loss: 0.56422, train acc: 0.757
+Epoch 1, train loss: 0.56178, train acc: 0.758
+Epoch 2, train loss: 0.55876, train acc: 0.758
+eval loss: 0.56477, eval acc: 0.758
+
+D-Step 19
+Epoch 0, train loss: 0.56631, train acc: 0.757
+Epoch 1, train loss: 0.56023, train acc: 0.758
+Epoch 2, train loss: 0.56224, train acc: 0.758
+eval loss: 0.55836, eval acc: 0.758
+
+D-Step 20
+Epoch 0, train loss: 0.55742, train acc: 0.758
+Epoch 1, train loss: 0.55604, train acc: 0.758
+Epoch 2, train loss: 0.56014, train acc: 0.758
+eval loss: 0.55946, eval acc: 0.758
+
+D-Step 21
+Epoch 0, train loss: 0.56244, train acc: 0.758
+Epoch 1, train loss: 0.56240, train acc: 0.758
+Epoch 2, train loss: 0.55597, train acc: 0.758
+eval loss: 0.55869, eval acc: 0.758
+
+D-Step 22
+Epoch 0, train loss: 0.55998, train acc: 0.758
+Epoch 1, train loss: 0.55992, train acc: 0.758
+Epoch 2, train loss: 0.56108, train acc: 0.758
+eval loss: 0.56132, eval acc: 0.758
+
+D-Step 23
+Epoch 0, train loss: 0.55606, train acc: 0.758
+Epoch 1, train loss: 0.56133, train acc: 0.758
+Epoch 2, train loss: 0.56540, train acc: 0.758
+eval loss: 0.55821, eval acc: 0.758
+
+D-Step 24
+Epoch 0, train loss: 0.56022, train acc: 0.758
+Epoch 1, train loss: 0.55872, train acc: 0.758
+Epoch 2, train loss: 0.55688, train acc: 0.758
+eval loss: 0.56084, eval acc: 0.758
+
+D-Step 25
+Epoch 0, train loss: 0.55816, train acc: 0.758
+Epoch 1, train loss: 0.56086, train acc: 0.757
+Epoch 2, train loss: 0.55844, train acc: 0.758
+eval loss: 0.55704, eval acc: 0.758
+
+D-Step 26
+Epoch 0, train loss: 0.55901, train acc: 0.757
+Epoch 1, train loss: 0.56134, train acc: 0.758
+Epoch 2, train loss: 0.55788, train acc: 0.758
+eval loss: 0.55754, eval acc: 0.758
+
+D-Step 27
+Epoch 0, train loss: 0.55476, train acc: 0.758
+Epoch 1, train loss: 0.55978, train acc: 0.758
+Epoch 2, train loss: 0.56119, train acc: 0.758
+eval loss: 0.56056, eval acc: 0.758
+
+D-Step 28
+Epoch 0, train loss: 0.55706, train acc: 0.758
+Epoch 1, train loss: 0.56025, train acc: 0.758
+Epoch 2, train loss: 0.55886, train acc: 0.757
+eval loss: 0.55671, eval acc: 0.757
+
+D-Step 29
+Epoch 0, train loss: 0.56132, train acc: 0.758
+Epoch 1, train loss: 0.55917, train acc: 0.758
+Epoch 2, train loss: 0.55561, train acc: 0.757
+eval loss: 0.55953, eval acc: 0.758
+
+D-Step 30
+Epoch 0, train loss: 0.55902, train acc: 0.758
+Epoch 1, train loss: 0.56148, train acc: 0.758
+Epoch 2, train loss: 0.55814, train acc: 0.758
+eval loss: 0.55873, eval acc: 0.758
+
+D-Step 31
+Epoch 0, train loss: 0.55953, train acc: 0.758
+Epoch 1, train loss: 0.55936, train acc: 0.758
+Epoch 2, train loss: 0.56080, train acc: 0.758
+eval loss: 0.56623, eval acc: 0.758
+
+D-Step 32
+Epoch 0, train loss: 0.56122, train acc: 0.758
+Epoch 1, train loss: 0.55756, train acc: 0.758
+Epoch 2, train loss: 0.56134, train acc: 0.758
+eval loss: 0.56442, eval acc: 0.758
+
+D-Step 33
+Epoch 0, train loss: 0.56007, train acc: 0.758
+Epoch 1, train loss: 0.56055, train acc: 0.758
+Epoch 2, train loss: 0.55782, train acc: 0.758
+eval loss: 0.56141, eval acc: 0.758
+
+D-Step 34
+Epoch 0, train loss: 0.55962, train acc: 0.758
+Epoch 1, train loss: 0.55910, train acc: 0.758
+Epoch 2, train loss: 0.56235, train acc: 0.758
+eval loss: 0.55855, eval acc: 0.758
+
+D-Step 35
+Epoch 0, train loss: 0.55866, train acc: 0.758
+Epoch 1, train loss: 0.56032, train acc: 0.758
+Epoch 2, train loss: 0.55703, train acc: 0.758
+eval loss: 0.55932, eval acc: 0.758
+
+D-Step 36
+Epoch 0, train loss: 0.56237, train acc: 0.758
+Epoch 1, train loss: 0.56112, train acc: 0.758
+Epoch 2, train loss: 0.55956, train acc: 0.758
+eval loss: 0.56101, eval acc: 0.758
+
+D-Step 37
+Epoch 0, train loss: 0.55879, train acc: 0.758
+Epoch 1, train loss: 0.56013, train acc: 0.758
+Epoch 2, train loss: 0.55938, train acc: 0.758
+eval loss: 0.55859, eval acc: 0.758
+
+D-Step 38
+Epoch 0, train loss: 0.55688, train acc: 0.757
+Epoch 1, train loss: 0.56060, train acc: 0.758
+Epoch 2, train loss: 0.56108, train acc: 0.758
+eval loss: 0.55793, eval acc: 0.758
+
+D-Step 39
+Epoch 0, train loss: 0.55802, train acc: 0.758
+Epoch 1, train loss: 0.56276, train acc: 0.758
+Epoch 2, train loss: 0.55814, train acc: 0.758
+eval loss: 0.55609, eval acc: 0.758
+
+D-Step 40
+Epoch 0, train loss: 0.55498, train acc: 0.758
+Epoch 1, train loss: 0.55823, train acc: 0.758
+Epoch 2, train loss: 0.55657, train acc: 0.758
+eval loss: 0.56030, eval acc: 0.758
+
+D-Step 41
+Epoch 0, train loss: 0.56039, train acc: 0.758
+Epoch 1, train loss: 0.56014, train acc: 0.758
+Epoch 2, train loss: 0.55849, train acc: 0.758
+eval loss: 0.55913, eval acc: 0.757
+
+D-Step 42
+Epoch 0, train loss: 0.55954, train acc: 0.758
+Epoch 1, train loss: 0.55718, train acc: 0.758
+Epoch 2, train loss: 0.55656, train acc: 0.758
+eval loss: 0.55635, eval acc: 0.758
+
+D-Step 43
+Epoch 0, train loss: 0.55882, train acc: 0.758
+Epoch 1, train loss: 0.55753, train acc: 0.758
+Epoch 2, train loss: 0.55908, train acc: 0.758
+eval loss: 0.55821, eval acc: 0.758
+
+D-Step 44
+Epoch 0, train loss: 0.55856, train acc: 0.758
+Epoch 1, train loss: 0.55880, train acc: 0.758
+Epoch 2, train loss: 0.55956, train acc: 0.758
+eval loss: 0.55944, eval acc: 0.758
+
+D-Step 45
+Epoch 0, train loss: 0.55745, train acc: 0.758
+Epoch 1, train loss: 0.55676, train acc: 0.758
+Epoch 2, train loss: 0.55777, train acc: 0.758
+eval loss: 0.55700, eval acc: 0.758
+
+D-Step 46
+Epoch 0, train loss: 0.56128, train acc: 0.758
+Epoch 1, train loss: 0.55733, train acc: 0.758
+Epoch 2, train loss: 0.55596, train acc: 0.758
+eval loss: 0.56302, eval acc: 0.757
+
+D-Step 47
+Epoch 0, train loss: 0.55920, train acc: 0.758
+Epoch 1, train loss: 0.56228, train acc: 0.758
+Epoch 2, train loss: 0.55914, train acc: 0.758
+eval loss: 0.55347, eval acc: 0.758
+
+D-Step 48
+Epoch 0, train loss: 0.55685, train acc: 0.758
+Epoch 1, train loss: 0.55569, train acc: 0.758
+Epoch 2, train loss: 0.55797, train acc: 0.758
+eval loss: 0.55881, eval acc: 0.758
+
+D-Step 49
+Epoch 0, train loss: 0.55954, train acc: 0.758
+Epoch 1, train loss: 0.55802, train acc: 0.758
+Epoch 2, train loss: 0.55486, train acc: 0.758
+eval loss: 0.55888, eval acc: 0.758
+
+#####################################################
+
+
+#####################################################
+Start adversarial training...
+#####################################################
+
+Round 0
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.54702, train acc: 0.758
+Epoch 1, train loss: 0.54206, train acc: 0.758
+Epoch 2, train loss: 0.53871, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.53457, train acc: 0.758
+Epoch 1, train loss: 0.53127, train acc: 0.758
+Epoch 2, train loss: 0.52883, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.52336, train acc: 0.758
+Epoch 1, train loss: 0.52081, train acc: 0.758
+Epoch 2, train loss: 0.51870, train acc: 0.758
+gen eval loss: 11.99012, dis eval loss: 0.51371, dis eval acc: 0.758
+
+Round 1
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.55757, train acc: 0.758
+Epoch 1, train loss: 0.55626, train acc: 0.758
+Epoch 2, train loss: 0.55938, train acc: 0.757
+##D-Step 1
+Epoch 0, train loss: 0.55518, train acc: 0.758
+Epoch 1, train loss: 0.55527, train acc: 0.758
+Epoch 2, train loss: 0.55469, train acc: 0.757
+##D-Step 2
+Epoch 0, train loss: 0.55453, train acc: 0.758
+Epoch 1, train loss: 0.55224, train acc: 0.758
+Epoch 2, train loss: 0.55736, train acc: 0.758
+gen eval loss: 11.65123, dis eval loss: 0.55311, dis eval acc: 0.758
+
+Round 2
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.55702, train acc: 0.758
+Epoch 1, train loss: 0.55618, train acc: 0.757
+Epoch 2, train loss: 0.55729, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.55713, train acc: 0.758
+Epoch 1, train loss: 0.55923, train acc: 0.758
+Epoch 2, train loss: 0.55306, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.55417, train acc: 0.758
+Epoch 1, train loss: 0.55840, train acc: 0.758
+Epoch 2, train loss: 0.55934, train acc: 0.758
+gen eval loss: 11.65895, dis eval loss: 0.55434, dis eval acc: 0.758
+
+Round 3
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.55501, train acc: 0.758
+Epoch 1, train loss: 0.55510, train acc: 0.758
+Epoch 2, train loss: 0.55411, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.55170, train acc: 0.758
+Epoch 1, train loss: 0.55556, train acc: 0.758
+Epoch 2, train loss: 0.55497, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.55554, train acc: 0.758
+Epoch 1, train loss: 0.55390, train acc: 0.758
+Epoch 2, train loss: 0.55332, train acc: 0.757
+gen eval loss: 11.61702, dis eval loss: 0.55674, dis eval acc: 0.758
+
+Round 4
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.55323, train acc: 0.758
+Epoch 1, train loss: 0.55531, train acc: 0.758
+Epoch 2, train loss: 0.54986, train acc: 0.757
+##D-Step 1
+Epoch 0, train loss: 0.55051, train acc: 0.758
+Epoch 1, train loss: 0.55063, train acc: 0.758
+Epoch 2, train loss: 0.54997, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.55091, train acc: 0.758
+Epoch 1, train loss: 0.55010, train acc: 0.757
+Epoch 2, train loss: 0.54883, train acc: 0.758
+gen eval loss: 11.60022, dis eval loss: 0.55116, dis eval acc: 0.758
+
+Round 5
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.55175, train acc: 0.758
+Epoch 1, train loss: 0.55242, train acc: 0.758
+Epoch 2, train loss: 0.54443, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.54613, train acc: 0.757
+Epoch 1, train loss: 0.54486, train acc: 0.758
+Epoch 2, train loss: 0.54751, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.54526, train acc: 0.758
+Epoch 1, train loss: 0.54403, train acc: 0.758
+Epoch 2, train loss: 0.54496, train acc: 0.758
+gen eval loss: 11.58101, dis eval loss: 0.54410, dis eval acc: 0.758
+
+Round 6
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.54790, train acc: 0.757
+Epoch 1, train loss: 0.54387, train acc: 0.758
+Epoch 2, train loss: 0.54050, train acc: 0.757
+##D-Step 1
+Epoch 0, train loss: 0.54357, train acc: 0.758
+Epoch 1, train loss: 0.54596, train acc: 0.758
+Epoch 2, train loss: 0.54427, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.54160, train acc: 0.758
+Epoch 1, train loss: 0.53901, train acc: 0.758
+Epoch 2, train loss: 0.54430, train acc: 0.758
+gen eval loss: 11.63331, dis eval loss: 0.54222, dis eval acc: 0.758
+
+Round 7
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.53925, train acc: 0.758
+Epoch 1, train loss: 0.54172, train acc: 0.758
+Epoch 2, train loss: 0.53629, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.53660, train acc: 0.758
+Epoch 1, train loss: 0.53594, train acc: 0.758
+Epoch 2, train loss: 0.53451, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.53355, train acc: 0.758
+Epoch 1, train loss: 0.53556, train acc: 0.758
+Epoch 2, train loss: 0.53360, train acc: 0.758
+gen eval loss: 11.60487, dis eval loss: 0.53338, dis eval acc: 0.758
+
+Round 8
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.53319, train acc: 0.758
+Epoch 1, train loss: 0.53094, train acc: 0.758
+Epoch 2, train loss: 0.52904, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.52949, train acc: 0.757
+Epoch 1, train loss: 0.53035, train acc: 0.758
+Epoch 2, train loss: 0.52672, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.52752, train acc: 0.758
+Epoch 1, train loss: 0.53154, train acc: 0.758
+Epoch 2, train loss: 0.52461, train acc: 0.758
+gen eval loss: 11.62314, dis eval loss: 0.52443, dis eval acc: 0.758
+
+Round 9
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.52730, train acc: 0.758
+Epoch 1, train loss: 0.52520, train acc: 0.758
+Epoch 2, train loss: 0.52450, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.52224, train acc: 0.758
+Epoch 1, train loss: 0.52101, train acc: 0.758
+Epoch 2, train loss: 0.52143, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.52142, train acc: 0.758
+Epoch 1, train loss: 0.52362, train acc: 0.758
+Epoch 2, train loss: 0.52069, train acc: 0.758
+gen eval loss: 11.64191, dis eval loss: 0.51775, dis eval acc: 0.758
+
+Round 10
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.52135, train acc: 0.758
+Epoch 1, train loss: 0.52172, train acc: 0.758
+Epoch 2, train loss: 0.52166, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.51295, train acc: 0.758
+Epoch 1, train loss: 0.51673, train acc: 0.758
+Epoch 2, train loss: 0.52015, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.51749, train acc: 0.758
+Epoch 1, train loss: 0.51649, train acc: 0.758
+Epoch 2, train loss: 0.51583, train acc: 0.758
+gen eval loss: 11.64033, dis eval loss: 0.51316, dis eval acc: 0.758
+
+Round 11
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.51730, train acc: 0.758
+Epoch 1, train loss: 0.51618, train acc: 0.758
+Epoch 2, train loss: 0.51575, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.51463, train acc: 0.758
+Epoch 1, train loss: 0.51180, train acc: 0.757
+Epoch 2, train loss: 0.51152, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.50925, train acc: 0.758
+Epoch 1, train loss: 0.51082, train acc: 0.758
+Epoch 2, train loss: 0.51197, train acc: 0.758
+gen eval loss: 11.63409, dis eval loss: 0.51185, dis eval acc: 0.758
+
+Round 12
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.51203, train acc: 0.758
+Epoch 1, train loss: 0.51096, train acc: 0.758
+Epoch 2, train loss: 0.51182, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.51310, train acc: 0.758
+Epoch 1, train loss: 0.51257, train acc: 0.758
+Epoch 2, train loss: 0.50874, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.50679, train acc: 0.758
+Epoch 1, train loss: 0.50699, train acc: 0.759
+Epoch 2, train loss: 0.50874, train acc: 0.758
+gen eval loss: 11.61359, dis eval loss: 0.50599, dis eval acc: 0.758
+
+Round 13
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.50976, train acc: 0.758
+Epoch 1, train loss: 0.50678, train acc: 0.758
+Epoch 2, train loss: 0.50568, train acc: 0.758
+##D-Step 1
+Epoch 0, train loss: 0.50718, train acc: 0.758
+Epoch 1, train loss: 0.50462, train acc: 0.758
+Epoch 2, train loss: 0.50217, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.50184, train acc: 0.758
+Epoch 1, train loss: 0.50137, train acc: 0.759
+Epoch 2, train loss: 0.49927, train acc: 0.758
+gen eval loss: 11.60400, dis eval loss: 0.49922, dis eval acc: 0.758
+
+Round 14
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.49963, train acc: 0.758
+Epoch 1, train loss: 0.49950, train acc: 0.758
+Epoch 2, train loss: 0.50061, train acc: 0.759
+##D-Step 1
+Epoch 0, train loss: 0.50266, train acc: 0.758
+Epoch 1, train loss: 0.49754, train acc: 0.759
+Epoch 2, train loss: 0.49831, train acc: 0.758
+##D-Step 2
+Epoch 0, train loss: 0.49774, train acc: 0.759
+Epoch 1, train loss: 0.49752, train acc: 0.759
+Epoch 2, train loss: 0.49693, train acc: 0.759
+gen eval loss: 11.61732, dis eval loss: 0.49420, dis eval acc: 0.760
+
+Round 15
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.49381, train acc: 0.760
+Epoch 1, train loss: 0.49510, train acc: 0.759
+Epoch 2, train loss: 0.49258, train acc: 0.760
+##D-Step 1
+Epoch 0, train loss: 0.49283, train acc: 0.759
+Epoch 1, train loss: 0.49093, train acc: 0.759
+Epoch 2, train loss: 0.49354, train acc: 0.760
+##D-Step 2
+Epoch 0, train loss: 0.48803, train acc: 0.759
+Epoch 1, train loss: 0.49059, train acc: 0.760
+Epoch 2, train loss: 0.48604, train acc: 0.761
+gen eval loss: 11.74258, dis eval loss: 0.48625, dis eval acc: 0.762
+
+Round 16
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.49260, train acc: 0.759
+Epoch 1, train loss: 0.49092, train acc: 0.760
+Epoch 2, train loss: 0.48990, train acc: 0.760
+##D-Step 1
+Epoch 0, train loss: 0.48714, train acc: 0.760
+Epoch 1, train loss: 0.48782, train acc: 0.760
+Epoch 2, train loss: 0.48535, train acc: 0.760
+##D-Step 2
+Epoch 0, train loss: 0.48636, train acc: 0.760
+Epoch 1, train loss: 0.48721, train acc: 0.760
+Epoch 2, train loss: 0.48441, train acc: 0.761
+gen eval loss: 11.71955, dis eval loss: 0.48280, dis eval acc: 0.762
+
+Round 17
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.48721, train acc: 0.760
+Epoch 1, train loss: 0.48481, train acc: 0.760
+Epoch 2, train loss: 0.48211, train acc: 0.760
+##D-Step 1
+Epoch 0, train loss: 0.48315, train acc: 0.761
+Epoch 1, train loss: 0.48093, train acc: 0.760
+Epoch 2, train loss: 0.47896, train acc: 0.760
+##D-Step 2
+Epoch 0, train loss: 0.47752, train acc: 0.760
+Epoch 1, train loss: 0.47765, train acc: 0.762
+Epoch 2, train loss: 0.47524, train acc: 0.761
+gen eval loss: 11.68435, dis eval loss: 0.47412, dis eval acc: 0.762
+
+Round 18
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.47627, train acc: 0.761
+Epoch 1, train loss: 0.47919, train acc: 0.762
+Epoch 2, train loss: 0.47748, train acc: 0.761
+##D-Step 1
+Epoch 0, train loss: 0.47498, train acc: 0.762
+Epoch 1, train loss: 0.47281, train acc: 0.763
+Epoch 2, train loss: 0.47297, train acc: 0.764
+##D-Step 2
+Epoch 0, train loss: 0.47361, train acc: 0.763
+Epoch 1, train loss: 0.46951, train acc: 0.763
+Epoch 2, train loss: 0.46833, train acc: 0.763
+gen eval loss: 11.77356, dis eval loss: 0.46907, dis eval acc: 0.764
+
+Round 19
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.46569, train acc: 0.764
+Epoch 1, train loss: 0.46554, train acc: 0.765
+Epoch 2, train loss: 0.46183, train acc: 0.765
+##D-Step 1
+Epoch 0, train loss: 0.46286, train acc: 0.765
+Epoch 1, train loss: 0.45954, train acc: 0.766
+Epoch 2, train loss: 0.46012, train acc: 0.770
+##D-Step 2
+Epoch 0, train loss: 0.45946, train acc: 0.767
+Epoch 1, train loss: 0.45715, train acc: 0.767
+Epoch 2, train loss: 0.45460, train acc: 0.767
+gen eval loss: 11.88088, dis eval loss: 0.45658, dis eval acc: 0.769
+
+Round 20
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.40899, train acc: 0.803
+Epoch 1, train loss: 0.39980, train acc: 0.814
+Epoch 2, train loss: 0.39392, train acc: 0.823
+##D-Step 1
+Epoch 0, train loss: 0.39172, train acc: 0.832
+Epoch 1, train loss: 0.38086, train acc: 0.841
+Epoch 2, train loss: 0.37427, train acc: 0.845
+##D-Step 2
+Epoch 0, train loss: 0.37034, train acc: 0.854
+Epoch 1, train loss: 0.36331, train acc: 0.858
+Epoch 2, train loss: 0.36081, train acc: 0.861
+gen eval loss: 12.70366, dis eval loss: 0.35423, dis eval acc: 0.868
+
+Round 21
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.35271, train acc: 0.872
+Epoch 1, train loss: 0.35087, train acc: 0.871
+Epoch 2, train loss: 0.34785, train acc: 0.877
+##D-Step 1
+Epoch 0, train loss: 0.33699, train acc: 0.883
+Epoch 1, train loss: 0.33181, train acc: 0.885
+Epoch 2, train loss: 0.32768, train acc: 0.887
+##D-Step 2
+Epoch 0, train loss: 0.32999, train acc: 0.885
+Epoch 1, train loss: 0.32696, train acc: 0.886
+Epoch 2, train loss: 0.32236, train acc: 0.888
+gen eval loss: 12.65403, dis eval loss: 0.31953, dis eval acc: 0.888
+
+Round 22
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.31587, train acc: 0.893
+Epoch 1, train loss: 0.31081, train acc: 0.895
+Epoch 2, train loss: 0.30631, train acc: 0.895
+##D-Step 1
+Epoch 0, train loss: 0.31216, train acc: 0.895
+Epoch 1, train loss: 0.30904, train acc: 0.895
+Epoch 2, train loss: 0.29999, train acc: 0.898
+##D-Step 2
+Epoch 0, train loss: 0.29654, train acc: 0.897
+Epoch 1, train loss: 0.29696, train acc: 0.898
+Epoch 2, train loss: 0.29262, train acc: 0.900
+gen eval loss: 12.65875, dis eval loss: 0.29643, dis eval acc: 0.895
+
+Round 23
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.29836, train acc: 0.897
+Epoch 1, train loss: 0.29245, train acc: 0.899
+Epoch 2, train loss: 0.29368, train acc: 0.899
+##D-Step 1
+Epoch 0, train loss: 0.29664, train acc: 0.896
+Epoch 1, train loss: 0.29496, train acc: 0.896
+Epoch 2, train loss: 0.29511, train acc: 0.897
+##D-Step 2
+Epoch 0, train loss: 0.28392, train acc: 0.900
+Epoch 1, train loss: 0.28375, train acc: 0.898
+Epoch 2, train loss: 0.28396, train acc: 0.898
+gen eval loss: 12.58558, dis eval loss: 0.28236, dis eval acc: 0.899
+
+Round 24
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.27706, train acc: 0.905
+Epoch 1, train loss: 0.27601, train acc: 0.903
+Epoch 2, train loss: 0.27718, train acc: 0.905
+##D-Step 1
+Epoch 0, train loss: 0.26935, train acc: 0.907
+Epoch 1, train loss: 0.26437, train acc: 0.908
+Epoch 2, train loss: 0.26569, train acc: 0.907
+##D-Step 2
+Epoch 0, train loss: 0.26130, train acc: 0.911
+Epoch 1, train loss: 0.26221, train acc: 0.911
+Epoch 2, train loss: 0.25613, train acc: 0.913
+gen eval loss: 12.66097, dis eval loss: 0.25966, dis eval acc: 0.912
+
+Round 25
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.24761, train acc: 0.921
+Epoch 1, train loss: 0.24820, train acc: 0.920
+Epoch 2, train loss: 0.24314, train acc: 0.922
+##D-Step 1
+Epoch 0, train loss: 0.24396, train acc: 0.917
+Epoch 1, train loss: 0.24511, train acc: 0.919
+Epoch 2, train loss: 0.23955, train acc: 0.919
+##D-Step 2
+Epoch 0, train loss: 0.23568, train acc: 0.921
+Epoch 1, train loss: 0.23414, train acc: 0.921
+Epoch 2, train loss: 0.23245, train acc: 0.923
+gen eval loss: 12.66310, dis eval loss: 0.22674, dis eval acc: 0.927
+
+Round 26
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21521, train acc: 0.933
+Epoch 1, train loss: 0.21351, train acc: 0.933
+Epoch 2, train loss: 0.21099, train acc: 0.934
+##D-Step 1
+Epoch 0, train loss: 0.21469, train acc: 0.932
+Epoch 1, train loss: 0.21508, train acc: 0.932
+Epoch 2, train loss: 0.20926, train acc: 0.933
+##D-Step 2
+Epoch 0, train loss: 0.20859, train acc: 0.934
+Epoch 1, train loss: 0.21107, train acc: 0.933
+Epoch 2, train loss: 0.20814, train acc: 0.935
+gen eval loss: 12.65174, dis eval loss: 0.20485, dis eval acc: 0.938
+
+Round 27
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.19264, train acc: 0.947
+Epoch 1, train loss: 0.18785, train acc: 0.946
+Epoch 2, train loss: 0.18611, train acc: 0.949
+##D-Step 1
+Epoch 0, train loss: 0.18132, train acc: 0.951
+Epoch 1, train loss: 0.17759, train acc: 0.949
+Epoch 2, train loss: 0.17483, train acc: 0.951
+##D-Step 2
+Epoch 0, train loss: 0.17445, train acc: 0.952
+Epoch 1, train loss: 0.17479, train acc: 0.952
+Epoch 2, train loss: 0.17092, train acc: 0.951
+gen eval loss: 12.50436, dis eval loss: 0.17122, dis eval acc: 0.950
+
+Round 28
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21677, train acc: 0.928
+Epoch 1, train loss: 0.21434, train acc: 0.934
+Epoch 2, train loss: 0.21132, train acc: 0.938
+##D-Step 1
+Epoch 0, train loss: 0.21720, train acc: 0.931
+Epoch 1, train loss: 0.21590, train acc: 0.933
+Epoch 2, train loss: 0.21291, train acc: 0.933
+##D-Step 2
+Epoch 0, train loss: 0.20730, train acc: 0.937
+Epoch 1, train loss: 0.20401, train acc: 0.939
+Epoch 2, train loss: 0.20388, train acc: 0.939
+gen eval loss: 12.28303, dis eval loss: 0.20362, dis eval acc: 0.936
+
+Round 29
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.26406, train acc: 0.897
+Epoch 1, train loss: 0.25761, train acc: 0.907
+Epoch 2, train loss: 0.25802, train acc: 0.908
+##D-Step 1
+Epoch 0, train loss: 0.25659, train acc: 0.909
+Epoch 1, train loss: 0.25439, train acc: 0.912
+Epoch 2, train loss: 0.25049, train acc: 0.914
+##D-Step 2
+Epoch 0, train loss: 0.24829, train acc: 0.914
+Epoch 1, train loss: 0.24294, train acc: 0.916
+Epoch 2, train loss: 0.24241, train acc: 0.920
+gen eval loss: 12.15943, dis eval loss: 0.24797, dis eval acc: 0.918
+
+Round 30
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.28872, train acc: 0.887
+Epoch 1, train loss: 0.28356, train acc: 0.897
+Epoch 2, train loss: 0.28102, train acc: 0.897
+##D-Step 1
+Epoch 0, train loss: 0.28531, train acc: 0.896
+Epoch 1, train loss: 0.28224, train acc: 0.897
+Epoch 2, train loss: 0.27875, train acc: 0.897
+##D-Step 2
+Epoch 0, train loss: 0.27480, train acc: 0.901
+Epoch 1, train loss: 0.27246, train acc: 0.903
+Epoch 2, train loss: 0.26997, train acc: 0.905
+gen eval loss: 12.09486, dis eval loss: 0.27005, dis eval acc: 0.904
+
+Round 31
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.29893, train acc: 0.884
+Epoch 1, train loss: 0.29839, train acc: 0.887
+Epoch 2, train loss: 0.29237, train acc: 0.889
+##D-Step 1
+Epoch 0, train loss: 0.28858, train acc: 0.891
+Epoch 1, train loss: 0.28719, train acc: 0.892
+Epoch 2, train loss: 0.28482, train acc: 0.895
+##D-Step 2
+Epoch 0, train loss: 0.28435, train acc: 0.901
+Epoch 1, train loss: 0.28533, train acc: 0.897
+Epoch 2, train loss: 0.27979, train acc: 0.900
+gen eval loss: 12.05923, dis eval loss: 0.27178, dis eval acc: 0.907
+
+Round 32
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.29672, train acc: 0.887
+Epoch 1, train loss: 0.29141, train acc: 0.892
+Epoch 2, train loss: 0.28853, train acc: 0.892
+##D-Step 1
+Epoch 0, train loss: 0.28958, train acc: 0.897
+Epoch 1, train loss: 0.28294, train acc: 0.898
+Epoch 2, train loss: 0.28313, train acc: 0.900
+##D-Step 2
+Epoch 0, train loss: 0.27327, train acc: 0.903
+Epoch 1, train loss: 0.27072, train acc: 0.905
+Epoch 2, train loss: 0.27120, train acc: 0.905
+gen eval loss: 12.05619, dis eval loss: 0.27857, dis eval acc: 0.897
+
+Round 33
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.28879, train acc: 0.894
+Epoch 1, train loss: 0.28504, train acc: 0.899
+Epoch 2, train loss: 0.28267, train acc: 0.904
+##D-Step 1
+Epoch 0, train loss: 0.27818, train acc: 0.902
+Epoch 1, train loss: 0.27602, train acc: 0.905
+Epoch 2, train loss: 0.27212, train acc: 0.907
+##D-Step 2
+Epoch 0, train loss: 0.27083, train acc: 0.907
+Epoch 1, train loss: 0.26873, train acc: 0.908
+Epoch 2, train loss: 0.26519, train acc: 0.910
+gen eval loss: 12.05646, dis eval loss: 0.26332, dis eval acc: 0.913
+
+Round 34
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.25920, train acc: 0.916
+Epoch 1, train loss: 0.26202, train acc: 0.919
+Epoch 2, train loss: 0.25373, train acc: 0.922
+##D-Step 1
+Epoch 0, train loss: 0.25725, train acc: 0.921
+Epoch 1, train loss: 0.25098, train acc: 0.923
+Epoch 2, train loss: 0.24631, train acc: 0.926
+##D-Step 2
+Epoch 0, train loss: 0.24550, train acc: 0.924
+Epoch 1, train loss: 0.24108, train acc: 0.927
+Epoch 2, train loss: 0.23860, train acc: 0.931
+gen eval loss: 12.05323, dis eval loss: 0.23713, dis eval acc: 0.930
+
+Round 35
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.24304, train acc: 0.923
+Epoch 1, train loss: 0.24017, train acc: 0.925
+Epoch 2, train loss: 0.23570, train acc: 0.932
+##D-Step 1
+Epoch 0, train loss: 0.23137, train acc: 0.934
+Epoch 1, train loss: 0.23090, train acc: 0.931
+Epoch 2, train loss: 0.22577, train acc: 0.935
+##D-Step 2
+Epoch 0, train loss: 0.21909, train acc: 0.938
+Epoch 1, train loss: 0.21880, train acc: 0.939
+Epoch 2, train loss: 0.21315, train acc: 0.943
+gen eval loss: 12.07026, dis eval loss: 0.21469, dis eval acc: 0.942
+
+Round 36
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.22592, train acc: 0.933
+Epoch 1, train loss: 0.21882, train acc: 0.942
+Epoch 2, train loss: 0.21781, train acc: 0.940
+##D-Step 1
+Epoch 0, train loss: 0.21828, train acc: 0.937
+Epoch 1, train loss: 0.22096, train acc: 0.937
+Epoch 2, train loss: 0.21572, train acc: 0.938
+##D-Step 2
+Epoch 0, train loss: 0.21420, train acc: 0.939
+Epoch 1, train loss: 0.21224, train acc: 0.941
+Epoch 2, train loss: 0.20958, train acc: 0.943
+gen eval loss: 12.02849, dis eval loss: 0.20607, dis eval acc: 0.942
+
+Round 37
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21679, train acc: 0.942
+Epoch 1, train loss: 0.21609, train acc: 0.937
+Epoch 2, train loss: 0.20981, train acc: 0.943
+##D-Step 1
+Epoch 0, train loss: 0.21038, train acc: 0.940
+Epoch 1, train loss: 0.20424, train acc: 0.945
+Epoch 2, train loss: 0.20292, train acc: 0.945
+##D-Step 2
+Epoch 0, train loss: 0.19853, train acc: 0.947
+Epoch 1, train loss: 0.19935, train acc: 0.949
+Epoch 2, train loss: 0.19503, train acc: 0.944
+gen eval loss: 11.96578, dis eval loss: 0.19614, dis eval acc: 0.950
+
+Round 38
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21739, train acc: 0.936
+Epoch 1, train loss: 0.21513, train acc: 0.940
+Epoch 2, train loss: 0.21375, train acc: 0.939
+##D-Step 1
+Epoch 0, train loss: 0.21111, train acc: 0.940
+Epoch 1, train loss: 0.20593, train acc: 0.945
+Epoch 2, train loss: 0.20705, train acc: 0.941
+##D-Step 2
+Epoch 0, train loss: 0.19782, train acc: 0.947
+Epoch 1, train loss: 0.19402, train acc: 0.949
+Epoch 2, train loss: 0.18916, train acc: 0.952
+gen eval loss: 11.95812, dis eval loss: 0.19584, dis eval acc: 0.946
+
+Round 39
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.20736, train acc: 0.937
+Epoch 1, train loss: 0.20523, train acc: 0.940
+Epoch 2, train loss: 0.20457, train acc: 0.945
+##D-Step 1
+Epoch 0, train loss: 0.20132, train acc: 0.946
+Epoch 1, train loss: 0.20607, train acc: 0.942
+Epoch 2, train loss: 0.20404, train acc: 0.942
+##D-Step 2
+Epoch 0, train loss: 0.20047, train acc: 0.942
+Epoch 1, train loss: 0.19563, train acc: 0.946
+Epoch 2, train loss: 0.19374, train acc: 0.947
+gen eval loss: 11.87268, dis eval loss: 0.20006, dis eval acc: 0.942
+
+Round 40
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.20701, train acc: 0.940
+Epoch 1, train loss: 0.20655, train acc: 0.938
+Epoch 2, train loss: 0.20505, train acc: 0.940
+##D-Step 1
+Epoch 0, train loss: 0.20648, train acc: 0.941
+Epoch 1, train loss: 0.20733, train acc: 0.941
+Epoch 2, train loss: 0.20448, train acc: 0.944
+##D-Step 2
+Epoch 0, train loss: 0.19605, train acc: 0.952
+Epoch 1, train loss: 0.19042, train acc: 0.952
+Epoch 2, train loss: 0.19175, train acc: 0.949
+gen eval loss: 11.82671, dis eval loss: 0.19289, dis eval acc: 0.950
+
+Round 41
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.20950, train acc: 0.934
+Epoch 1, train loss: 0.20800, train acc: 0.940
+Epoch 2, train loss: 0.20542, train acc: 0.941
+##D-Step 1
+Epoch 0, train loss: 0.20349, train acc: 0.942
+Epoch 1, train loss: 0.20526, train acc: 0.941
+Epoch 2, train loss: 0.20259, train acc: 0.945
+##D-Step 2
+Epoch 0, train loss: 0.20130, train acc: 0.939
+Epoch 1, train loss: 0.19954, train acc: 0.945
+Epoch 2, train loss: 0.19122, train acc: 0.947
+gen eval loss: 11.77778, dis eval loss: 0.19508, dis eval acc: 0.947
+
+Round 42
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21303, train acc: 0.935
+Epoch 1, train loss: 0.20979, train acc: 0.938
+Epoch 2, train loss: 0.20806, train acc: 0.939
+##D-Step 1
+Epoch 0, train loss: 0.19775, train acc: 0.947
+Epoch 1, train loss: 0.19676, train acc: 0.943
+Epoch 2, train loss: 0.19109, train acc: 0.949
+##D-Step 2
+Epoch 0, train loss: 0.19603, train acc: 0.941
+Epoch 1, train loss: 0.19620, train acc: 0.946
+Epoch 2, train loss: 0.19581, train acc: 0.947
+gen eval loss: 11.78002, dis eval loss: 0.18828, dis eval acc: 0.949
+
+Round 43
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21619, train acc: 0.935
+Epoch 1, train loss: 0.21253, train acc: 0.937
+Epoch 2, train loss: 0.20965, train acc: 0.936
+##D-Step 1
+Epoch 0, train loss: 0.21760, train acc: 0.933
+Epoch 1, train loss: 0.21312, train acc: 0.936
+Epoch 2, train loss: 0.20712, train acc: 0.941
+##D-Step 2
+Epoch 0, train loss: 0.20546, train acc: 0.940
+Epoch 1, train loss: 0.20623, train acc: 0.940
+Epoch 2, train loss: 0.20442, train acc: 0.939
+gen eval loss: 11.74877, dis eval loss: 0.20360, dis eval acc: 0.941
+
+Round 44
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.22237, train acc: 0.931
+Epoch 1, train loss: 0.21817, train acc: 0.934
+Epoch 2, train loss: 0.21802, train acc: 0.932
+##D-Step 1
+Epoch 0, train loss: 0.21547, train acc: 0.936
+Epoch 1, train loss: 0.21912, train acc: 0.934
+Epoch 2, train loss: 0.21356, train acc: 0.937
+##D-Step 2
+Epoch 0, train loss: 0.21622, train acc: 0.927
+Epoch 1, train loss: 0.21332, train acc: 0.935
+Epoch 2, train loss: 0.21064, train acc: 0.935
+gen eval loss: 11.71316, dis eval loss: 0.20362, dis eval acc: 0.940
+
+Round 45
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.23291, train acc: 0.925
+Epoch 1, train loss: 0.22760, train acc: 0.931
+Epoch 2, train loss: 0.22345, train acc: 0.931
+##D-Step 1
+Epoch 0, train loss: 0.22417, train acc: 0.929
+Epoch 1, train loss: 0.22441, train acc: 0.928
+Epoch 2, train loss: 0.21888, train acc: 0.932
+##D-Step 2
+Epoch 0, train loss: 0.21762, train acc: 0.936
+Epoch 1, train loss: 0.21644, train acc: 0.937
+Epoch 2, train loss: 0.21171, train acc: 0.941
+gen eval loss: 11.66222, dis eval loss: 0.20862, dis eval acc: 0.943
+
+Round 46
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.23683, train acc: 0.919
+Epoch 1, train loss: 0.23290, train acc: 0.924
+Epoch 2, train loss: 0.23113, train acc: 0.922
+##D-Step 1
+Epoch 0, train loss: 0.22561, train acc: 0.932
+Epoch 1, train loss: 0.22563, train acc: 0.929
+Epoch 2, train loss: 0.21947, train acc: 0.933
+##D-Step 2
+Epoch 0, train loss: 0.21896, train acc: 0.933
+Epoch 1, train loss: 0.21761, train acc: 0.931
+Epoch 2, train loss: 0.21308, train acc: 0.935
+gen eval loss: 11.62060, dis eval loss: 0.21435, dis eval acc: 0.933
+
+Round 47
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.24153, train acc: 0.919
+Epoch 1, train loss: 0.23361, train acc: 0.925
+Epoch 2, train loss: 0.23533, train acc: 0.922
+##D-Step 1
+Epoch 0, train loss: 0.22968, train acc: 0.923
+Epoch 1, train loss: 0.22083, train acc: 0.933
+Epoch 2, train loss: 0.22082, train acc: 0.934
+##D-Step 2
+Epoch 0, train loss: 0.22300, train acc: 0.929
+Epoch 1, train loss: 0.22177, train acc: 0.930
+Epoch 2, train loss: 0.21925, train acc: 0.928
+gen eval loss: 11.63744, dis eval loss: 0.21677, dis eval acc: 0.935
+
+Round 48
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.23696, train acc: 0.921
+Epoch 1, train loss: 0.23294, train acc: 0.926
+Epoch 2, train loss: 0.23110, train acc: 0.926
+##D-Step 1
+Epoch 0, train loss: 0.22813, train acc: 0.926
+Epoch 1, train loss: 0.22283, train acc: 0.932
+Epoch 2, train loss: 0.22083, train acc: 0.930
+##D-Step 2
+Epoch 0, train loss: 0.21815, train acc: 0.933
+Epoch 1, train loss: 0.22168, train acc: 0.931
+Epoch 2, train loss: 0.21675, train acc: 0.930
+gen eval loss: 11.64450, dis eval loss: 0.21769, dis eval acc: 0.936
+
+Round 49
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.24359, train acc: 0.918
+Epoch 1, train loss: 0.24017, train acc: 0.921
+Epoch 2, train loss: 0.23537, train acc: 0.921
+##D-Step 1
+Epoch 0, train loss: 0.23534, train acc: 0.921
+Epoch 1, train loss: 0.23390, train acc: 0.924
+Epoch 2, train loss: 0.23315, train acc: 0.924
+##D-Step 2
+Epoch 0, train loss: 0.21752, train acc: 0.934
+Epoch 1, train loss: 0.22165, train acc: 0.931
+Epoch 2, train loss: 0.21625, train acc: 0.930
+gen eval loss: 11.69779, dis eval loss: 0.22754, dis eval acc: 0.923
+
+Round 50
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.24452, train acc: 0.913
+Epoch 1, train loss: 0.23752, train acc: 0.924
+Epoch 2, train loss: 0.23648, train acc: 0.919
+##D-Step 1
+Epoch 0, train loss: 0.23687, train acc: 0.920
+Epoch 1, train loss: 0.23537, train acc: 0.919
+Epoch 2, train loss: 0.22690, train acc: 0.925
+##D-Step 2
+Epoch 0, train loss: 0.22457, train acc: 0.926
+Epoch 1, train loss: 0.22377, train acc: 0.925
+Epoch 2, train loss: 0.21930, train acc: 0.931
+gen eval loss: 11.72662, dis eval loss: 0.22108, dis eval acc: 0.929
+
+Round 51
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.24878, train acc: 0.910
+Epoch 1, train loss: 0.24440, train acc: 0.920
+Epoch 2, train loss: 0.24215, train acc: 0.920
+##D-Step 1
+Epoch 0, train loss: 0.23353, train acc: 0.923
+Epoch 1, train loss: 0.23075, train acc: 0.924
+Epoch 2, train loss: 0.22523, train acc: 0.928
+##D-Step 2
+Epoch 0, train loss: 0.23017, train acc: 0.921
+Epoch 1, train loss: 0.22912, train acc: 0.922
+Epoch 2, train loss: 0.22398, train acc: 0.926
+gen eval loss: 11.83981, dis eval loss: 0.22435, dis eval acc: 0.923
+
+Round 52
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.23862, train acc: 0.919
+Epoch 1, train loss: 0.23560, train acc: 0.923
+Epoch 2, train loss: 0.23184, train acc: 0.920
+##D-Step 1
+Epoch 0, train loss: 0.21868, train acc: 0.932
+Epoch 1, train loss: 0.22125, train acc: 0.930
+Epoch 2, train loss: 0.21256, train acc: 0.930
+##D-Step 2
+Epoch 0, train loss: 0.21721, train acc: 0.930
+Epoch 1, train loss: 0.21397, train acc: 0.932
+Epoch 2, train loss: 0.21065, train acc: 0.931
+gen eval loss: 11.87670, dis eval loss: 0.20775, dis eval acc: 0.938
+
+Round 53
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.22293, train acc: 0.922
+Epoch 1, train loss: 0.21815, train acc: 0.929
+Epoch 2, train loss: 0.21677, train acc: 0.929
+##D-Step 1
+Epoch 0, train loss: 0.21694, train acc: 0.930
+Epoch 1, train loss: 0.20709, train acc: 0.936
+Epoch 2, train loss: 0.20952, train acc: 0.935
+##D-Step 2
+Epoch 0, train loss: 0.20335, train acc: 0.935
+Epoch 1, train loss: 0.20083, train acc: 0.939
+Epoch 2, train loss: 0.19510, train acc: 0.942
+gen eval loss: 11.92990, dis eval loss: 0.19190, dis eval acc: 0.943
+
+Round 54
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.21594, train acc: 0.927
+Epoch 1, train loss: 0.21643, train acc: 0.931
+Epoch 2, train loss: 0.21152, train acc: 0.932
+##D-Step 1
+Epoch 0, train loss: 0.19941, train acc: 0.938
+Epoch 1, train loss: 0.19213, train acc: 0.942
+Epoch 2, train loss: 0.19109, train acc: 0.942
+##D-Step 2
+Epoch 0, train loss: 0.19153, train acc: 0.945
+Epoch 1, train loss: 0.19037, train acc: 0.942
+Epoch 2, train loss: 0.18272, train acc: 0.945
+gen eval loss: 11.93715, dis eval loss: 0.18160, dis eval acc: 0.949
+
+Round 55
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.20498, train acc: 0.932
+Epoch 1, train loss: 0.20302, train acc: 0.938
+Epoch 2, train loss: 0.19502, train acc: 0.941
+##D-Step 1
+Epoch 0, train loss: 0.18697, train acc: 0.945
+Epoch 1, train loss: 0.18101, train acc: 0.948
+Epoch 2, train loss: 0.18131, train acc: 0.949
+##D-Step 2
+Epoch 0, train loss: 0.17456, train acc: 0.952
+Epoch 1, train loss: 0.17038, train acc: 0.954
+Epoch 2, train loss: 0.16877, train acc: 0.952
+gen eval loss: 11.97690, dis eval loss: 0.16850, dis eval acc: 0.956
+
+Round 56
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.20282, train acc: 0.931
+Epoch 1, train loss: 0.19707, train acc: 0.939
+Epoch 2, train loss: 0.19436, train acc: 0.940
+##D-Step 1
+Epoch 0, train loss: 0.19108, train acc: 0.946
+Epoch 1, train loss: 0.18126, train acc: 0.951
+Epoch 2, train loss: 0.17627, train acc: 0.950
+##D-Step 2
+Epoch 0, train loss: 0.17943, train acc: 0.951
+Epoch 1, train loss: 0.17138, train acc: 0.958
+Epoch 2, train loss: 0.17224, train acc: 0.954
+gen eval loss: 12.02670, dis eval loss: 0.16582, dis eval acc: 0.957
+
+Round 57
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.17679, train acc: 0.952
+Epoch 1, train loss: 0.16987, train acc: 0.959
+Epoch 2, train loss: 0.17015, train acc: 0.956
+##D-Step 1
+Epoch 0, train loss: 0.16606, train acc: 0.957
+Epoch 1, train loss: 0.16114, train acc: 0.962
+Epoch 2, train loss: 0.15582, train acc: 0.963
+##D-Step 2
+Epoch 0, train loss: 0.15719, train acc: 0.959
+Epoch 1, train loss: 0.15604, train acc: 0.961
+Epoch 2, train loss: 0.14753, train acc: 0.967
+gen eval loss: 11.94793, dis eval loss: 0.14920, dis eval acc: 0.963
+
+Round 58
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.15928, train acc: 0.962
+Epoch 1, train loss: 0.15857, train acc: 0.963
+Epoch 2, train loss: 0.15206, train acc: 0.965
+##D-Step 1
+Epoch 0, train loss: 0.14658, train acc: 0.965
+Epoch 1, train loss: 0.14120, train acc: 0.971
+Epoch 2, train loss: 0.14116, train acc: 0.967
+##D-Step 2
+Epoch 0, train loss: 0.13704, train acc: 0.971
+Epoch 1, train loss: 0.13184, train acc: 0.975
+Epoch 2, train loss: 0.13298, train acc: 0.971
+gen eval loss: 11.89450, dis eval loss: 0.13044, dis eval acc: 0.974
+
+Round 59
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.12997, train acc: 0.974
+Epoch 1, train loss: 0.12541, train acc: 0.979
+Epoch 2, train loss: 0.12178, train acc: 0.976
+##D-Step 1
+Epoch 0, train loss: 0.12426, train acc: 0.975
+Epoch 1, train loss: 0.11954, train acc: 0.978
+Epoch 2, train loss: 0.11553, train acc: 0.979
+##D-Step 2
+Epoch 0, train loss: 0.11360, train acc: 0.980
+Epoch 1, train loss: 0.11483, train acc: 0.978
+Epoch 2, train loss: 0.11106, train acc: 0.981
+gen eval loss: 11.86682, dis eval loss: 0.10573, dis eval acc: 0.984
+
+Round 60
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.11287, train acc: 0.980
+Epoch 1, train loss: 0.10917, train acc: 0.982
+Epoch 2, train loss: 0.10770, train acc: 0.980
+##D-Step 1
+Epoch 0, train loss: 0.10108, train acc: 0.983
+Epoch 1, train loss: 0.09893, train acc: 0.988
+Epoch 2, train loss: 0.09769, train acc: 0.985
+##D-Step 2
+Epoch 0, train loss: 0.09601, train acc: 0.985
+Epoch 1, train loss: 0.09234, train acc: 0.986
+Epoch 2, train loss: 0.09025, train acc: 0.987
+gen eval loss: 11.74620, dis eval loss: 0.08890, dis eval acc: 0.987
+
+Round 61
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09962, train acc: 0.982
+Epoch 1, train loss: 0.09909, train acc: 0.982
+Epoch 2, train loss: 0.09634, train acc: 0.985
+##D-Step 1
+Epoch 0, train loss: 0.09510, train acc: 0.983
+Epoch 1, train loss: 0.09284, train acc: 0.984
+Epoch 2, train loss: 0.09182, train acc: 0.984
+##D-Step 2
+Epoch 0, train loss: 0.08966, train acc: 0.987
+Epoch 1, train loss: 0.08780, train acc: 0.986
+Epoch 2, train loss: 0.08468, train acc: 0.987
+gen eval loss: 11.66056, dis eval loss: 0.08655, dis eval acc: 0.986
+
+Round 62
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09145, train acc: 0.986
+Epoch 1, train loss: 0.09097, train acc: 0.985
+Epoch 2, train loss: 0.08934, train acc: 0.986
+##D-Step 1
+Epoch 0, train loss: 0.08743, train acc: 0.987
+Epoch 1, train loss: 0.08608, train acc: 0.986
+Epoch 2, train loss: 0.08389, train acc: 0.986
+##D-Step 2
+Epoch 0, train loss: 0.08246, train acc: 0.987
+Epoch 1, train loss: 0.08142, train acc: 0.989
+Epoch 2, train loss: 0.07888, train acc: 0.989
+gen eval loss: 11.64352, dis eval loss: 0.07698, dis eval acc: 0.990
+
+Round 63
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.08115, train acc: 0.988
+Epoch 1, train loss: 0.07717, train acc: 0.988
+Epoch 2, train loss: 0.07412, train acc: 0.992
+##D-Step 1
+Epoch 0, train loss: 0.07252, train acc: 0.990
+Epoch 1, train loss: 0.07207, train acc: 0.992
+Epoch 2, train loss: 0.07271, train acc: 0.991
+##D-Step 2
+Epoch 0, train loss: 0.07162, train acc: 0.989
+Epoch 1, train loss: 0.06751, train acc: 0.991
+Epoch 2, train loss: 0.06910, train acc: 0.988
+gen eval loss: 11.78329, dis eval loss: 0.06742, dis eval acc: 0.992
+
+Round 64
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06803, train acc: 0.990
+Epoch 1, train loss: 0.06785, train acc: 0.990
+Epoch 2, train loss: 0.06528, train acc: 0.991
+##D-Step 1
+Epoch 0, train loss: 0.06416, train acc: 0.990
+Epoch 1, train loss: 0.06277, train acc: 0.989
+Epoch 2, train loss: 0.06186, train acc: 0.991
+##D-Step 2
+Epoch 0, train loss: 0.06134, train acc: 0.990
+Epoch 1, train loss: 0.05845, train acc: 0.991
+Epoch 2, train loss: 0.05749, train acc: 0.993
+gen eval loss: 11.77119, dis eval loss: 0.05576, dis eval acc: 0.992
+
+Round 65
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06917, train acc: 0.989
+Epoch 1, train loss: 0.06833, train acc: 0.989
+Epoch 2, train loss: 0.06569, train acc: 0.989
+##D-Step 1
+Epoch 0, train loss: 0.06315, train acc: 0.990
+Epoch 1, train loss: 0.06412, train acc: 0.989
+Epoch 2, train loss: 0.06099, train acc: 0.990
+##D-Step 2
+Epoch 0, train loss: 0.05959, train acc: 0.991
+Epoch 1, train loss: 0.05602, train acc: 0.993
+Epoch 2, train loss: 0.05514, train acc: 0.993
+gen eval loss: 11.71113, dis eval loss: 0.05668, dis eval acc: 0.991
+
+Round 66
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06800, train acc: 0.988
+Epoch 1, train loss: 0.06575, train acc: 0.989
+Epoch 2, train loss: 0.06527, train acc: 0.989
+##D-Step 1
+Epoch 0, train loss: 0.06576, train acc: 0.988
+Epoch 1, train loss: 0.06476, train acc: 0.987
+Epoch 2, train loss: 0.06428, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.06349, train acc: 0.987
+Epoch 1, train loss: 0.06193, train acc: 0.989
+Epoch 2, train loss: 0.06006, train acc: 0.988
+gen eval loss: 11.70298, dis eval loss: 0.06009, dis eval acc: 0.990
+
+Round 67
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07620, train acc: 0.984
+Epoch 1, train loss: 0.07520, train acc: 0.984
+Epoch 2, train loss: 0.07281, train acc: 0.985
+##D-Step 1
+Epoch 0, train loss: 0.07196, train acc: 0.985
+Epoch 1, train loss: 0.07033, train acc: 0.986
+Epoch 2, train loss: 0.06588, train acc: 0.988
+##D-Step 2
+Epoch 0, train loss: 0.06639, train acc: 0.988
+Epoch 1, train loss: 0.06495, train acc: 0.987
+Epoch 2, train loss: 0.06578, train acc: 0.987
+gen eval loss: 11.60326, dis eval loss: 0.06657, dis eval acc: 0.987
+
+Round 68
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07723, train acc: 0.984
+Epoch 1, train loss: 0.07472, train acc: 0.984
+Epoch 2, train loss: 0.07378, train acc: 0.985
+##D-Step 1
+Epoch 0, train loss: 0.07342, train acc: 0.986
+Epoch 1, train loss: 0.07065, train acc: 0.987
+Epoch 2, train loss: 0.07090, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.06932, train acc: 0.987
+Epoch 1, train loss: 0.06717, train acc: 0.987
+Epoch 2, train loss: 0.06749, train acc: 0.988
+gen eval loss: 11.51583, dis eval loss: 0.06398, dis eval acc: 0.989
+
+Round 69
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09625, train acc: 0.974
+Epoch 1, train loss: 0.09403, train acc: 0.975
+Epoch 2, train loss: 0.09302, train acc: 0.974
+##D-Step 1
+Epoch 0, train loss: 0.09043, train acc: 0.978
+Epoch 1, train loss: 0.08618, train acc: 0.980
+Epoch 2, train loss: 0.08431, train acc: 0.978
+##D-Step 2
+Epoch 0, train loss: 0.08075, train acc: 0.981
+Epoch 1, train loss: 0.08181, train acc: 0.981
+Epoch 2, train loss: 0.07911, train acc: 0.981
+gen eval loss: 11.39706, dis eval loss: 0.07472, dis eval acc: 0.983
+
+Round 70
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.11090, train acc: 0.965
+Epoch 1, train loss: 0.10823, train acc: 0.968
+Epoch 2, train loss: 0.10174, train acc: 0.971
+##D-Step 1
+Epoch 0, train loss: 0.09736, train acc: 0.973
+Epoch 1, train loss: 0.09341, train acc: 0.975
+Epoch 2, train loss: 0.09272, train acc: 0.977
+##D-Step 2
+Epoch 0, train loss: 0.09133, train acc: 0.973
+Epoch 1, train loss: 0.09033, train acc: 0.977
+Epoch 2, train loss: 0.08966, train acc: 0.977
+gen eval loss: 11.41088, dis eval loss: 0.08927, dis eval acc: 0.976
+
+Round 71
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09951, train acc: 0.977
+Epoch 1, train loss: 0.09635, train acc: 0.977
+Epoch 2, train loss: 0.09715, train acc: 0.979
+##D-Step 1
+Epoch 0, train loss: 0.09480, train acc: 0.978
+Epoch 1, train loss: 0.09264, train acc: 0.981
+Epoch 2, train loss: 0.08830, train acc: 0.980
+##D-Step 2
+Epoch 0, train loss: 0.08328, train acc: 0.983
+Epoch 1, train loss: 0.08062, train acc: 0.985
+Epoch 2, train loss: 0.08052, train acc: 0.984
+gen eval loss: 11.43839, dis eval loss: 0.07958, dis eval acc: 0.984
+
+Round 72
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.11271, train acc: 0.971
+Epoch 1, train loss: 0.10894, train acc: 0.976
+Epoch 2, train loss: 0.10723, train acc: 0.975
+##D-Step 1
+Epoch 0, train loss: 0.10046, train acc: 0.978
+Epoch 1, train loss: 0.09716, train acc: 0.980
+Epoch 2, train loss: 0.09518, train acc: 0.980
+##D-Step 2
+Epoch 0, train loss: 0.09232, train acc: 0.983
+Epoch 1, train loss: 0.08637, train acc: 0.984
+Epoch 2, train loss: 0.08765, train acc: 0.984
+gen eval loss: 11.46657, dis eval loss: 0.08432, dis eval acc: 0.987
+
+Round 73
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09738, train acc: 0.979
+Epoch 1, train loss: 0.09412, train acc: 0.981
+Epoch 2, train loss: 0.09353, train acc: 0.981
+##D-Step 1
+Epoch 0, train loss: 0.08900, train acc: 0.984
+Epoch 1, train loss: 0.08653, train acc: 0.984
+Epoch 2, train loss: 0.08469, train acc: 0.983
+##D-Step 2
+Epoch 0, train loss: 0.08115, train acc: 0.983
+Epoch 1, train loss: 0.08183, train acc: 0.984
+Epoch 2, train loss: 0.07840, train acc: 0.985
+gen eval loss: 11.55216, dis eval loss: 0.07758, dis eval acc: 0.983
+
+Round 74
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09318, train acc: 0.980
+Epoch 1, train loss: 0.09351, train acc: 0.982
+Epoch 2, train loss: 0.09057, train acc: 0.982
+##D-Step 1
+Epoch 0, train loss: 0.08431, train acc: 0.985
+Epoch 1, train loss: 0.08329, train acc: 0.983
+Epoch 2, train loss: 0.08107, train acc: 0.986
+##D-Step 2
+Epoch 0, train loss: 0.08032, train acc: 0.986
+Epoch 1, train loss: 0.07976, train acc: 0.985
+Epoch 2, train loss: 0.07547, train acc: 0.985
+gen eval loss: 11.52954, dis eval loss: 0.07182, dis eval acc: 0.986
+
+Round 75
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09668, train acc: 0.974
+Epoch 1, train loss: 0.09422, train acc: 0.977
+Epoch 2, train loss: 0.09208, train acc: 0.978
+##D-Step 1
+Epoch 0, train loss: 0.09111, train acc: 0.976
+Epoch 1, train loss: 0.09364, train acc: 0.977
+Epoch 2, train loss: 0.08807, train acc: 0.978
+##D-Step 2
+Epoch 0, train loss: 0.08319, train acc: 0.980
+Epoch 1, train loss: 0.08238, train acc: 0.979
+Epoch 2, train loss: 0.07983, train acc: 0.980
+gen eval loss: 11.66541, dis eval loss: 0.08363, dis eval acc: 0.978
+
+Round 76
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.12191, train acc: 0.957
+Epoch 1, train loss: 0.11576, train acc: 0.968
+Epoch 2, train loss: 0.11567, train acc: 0.965
+##D-Step 1
+Epoch 0, train loss: 0.11108, train acc: 0.967
+Epoch 1, train loss: 0.10921, train acc: 0.969
+Epoch 2, train loss: 0.10772, train acc: 0.967
+##D-Step 2
+Epoch 0, train loss: 0.10623, train acc: 0.970
+Epoch 1, train loss: 0.10287, train acc: 0.970
+Epoch 2, train loss: 0.10222, train acc: 0.970
+gen eval loss: 11.67141, dis eval loss: 0.09680, dis eval acc: 0.973
+
+Round 77
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.14653, train acc: 0.950
+Epoch 1, train loss: 0.13840, train acc: 0.954
+Epoch 2, train loss: 0.13745, train acc: 0.956
+##D-Step 1
+Epoch 0, train loss: 0.13485, train acc: 0.959
+Epoch 1, train loss: 0.12907, train acc: 0.963
+Epoch 2, train loss: 0.12491, train acc: 0.966
+##D-Step 2
+Epoch 0, train loss: 0.12513, train acc: 0.965
+Epoch 1, train loss: 0.11875, train acc: 0.966
+Epoch 2, train loss: 0.11582, train acc: 0.969
+gen eval loss: 11.62823, dis eval loss: 0.11533, dis eval acc: 0.970
+
+Round 78
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.13027, train acc: 0.962
+Epoch 1, train loss: 0.12696, train acc: 0.968
+Epoch 2, train loss: 0.12533, train acc: 0.965
+##D-Step 1
+Epoch 0, train loss: 0.12319, train acc: 0.969
+Epoch 1, train loss: 0.11630, train acc: 0.971
+Epoch 2, train loss: 0.11647, train acc: 0.973
+##D-Step 2
+Epoch 0, train loss: 0.11878, train acc: 0.972
+Epoch 1, train loss: 0.11035, train acc: 0.974
+Epoch 2, train loss: 0.11021, train acc: 0.976
+gen eval loss: 11.59580, dis eval loss: 0.11307, dis eval acc: 0.974
+
+Round 79
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.11390, train acc: 0.974
+Epoch 1, train loss: 0.11008, train acc: 0.976
+Epoch 2, train loss: 0.11079, train acc: 0.975
+##D-Step 1
+Epoch 0, train loss: 0.11370, train acc: 0.976
+Epoch 1, train loss: 0.10590, train acc: 0.978
+Epoch 2, train loss: 0.10370, train acc: 0.977
+##D-Step 2
+Epoch 0, train loss: 0.09721, train acc: 0.980
+Epoch 1, train loss: 0.09479, train acc: 0.981
+Epoch 2, train loss: 0.09455, train acc: 0.983
+gen eval loss: 11.58773, dis eval loss: 0.09490, dis eval acc: 0.980
+
+Round 80
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09924, train acc: 0.978
+Epoch 1, train loss: 0.09811, train acc: 0.978
+Epoch 2, train loss: 0.09494, train acc: 0.981
+##D-Step 1
+Epoch 0, train loss: 0.09238, train acc: 0.982
+Epoch 1, train loss: 0.09262, train acc: 0.980
+Epoch 2, train loss: 0.08666, train acc: 0.983
+##D-Step 2
+Epoch 0, train loss: 0.09246, train acc: 0.980
+Epoch 1, train loss: 0.08683, train acc: 0.982
+Epoch 2, train loss: 0.08387, train acc: 0.982
+gen eval loss: 11.54184, dis eval loss: 0.07809, dis eval acc: 0.987
+
+Round 81
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09126, train acc: 0.978
+Epoch 1, train loss: 0.08721, train acc: 0.982
+Epoch 2, train loss: 0.08659, train acc: 0.982
+##D-Step 1
+Epoch 0, train loss: 0.08575, train acc: 0.985
+Epoch 1, train loss: 0.08121, train acc: 0.984
+Epoch 2, train loss: 0.07939, train acc: 0.985
+##D-Step 2
+Epoch 0, train loss: 0.08032, train acc: 0.983
+Epoch 1, train loss: 0.08118, train acc: 0.984
+Epoch 2, train loss: 0.07799, train acc: 0.985
+gen eval loss: 11.50562, dis eval loss: 0.07863, dis eval acc: 0.985
+
+Round 82
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.08340, train acc: 0.982
+Epoch 1, train loss: 0.07657, train acc: 0.988
+Epoch 2, train loss: 0.07785, train acc: 0.985
+##D-Step 1
+Epoch 0, train loss: 0.07318, train acc: 0.985
+Epoch 1, train loss: 0.07298, train acc: 0.984
+Epoch 2, train loss: 0.07089, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.06968, train acc: 0.987
+Epoch 1, train loss: 0.06864, train acc: 0.986
+Epoch 2, train loss: 0.06819, train acc: 0.987
+gen eval loss: 11.45536, dis eval loss: 0.06141, dis eval acc: 0.990
+
+Round 83
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07554, train acc: 0.984
+Epoch 1, train loss: 0.07340, train acc: 0.985
+Epoch 2, train loss: 0.07142, train acc: 0.986
+##D-Step 1
+Epoch 0, train loss: 0.07119, train acc: 0.987
+Epoch 1, train loss: 0.06848, train acc: 0.988
+Epoch 2, train loss: 0.06735, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.06990, train acc: 0.987
+Epoch 1, train loss: 0.06487, train acc: 0.987
+Epoch 2, train loss: 0.06590, train acc: 0.988
+gen eval loss: 11.40760, dis eval loss: 0.06457, dis eval acc: 0.988
+
+Round 84
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07158, train acc: 0.987
+Epoch 1, train loss: 0.07103, train acc: 0.986
+Epoch 2, train loss: 0.06957, train acc: 0.988
+##D-Step 1
+Epoch 0, train loss: 0.06840, train acc: 0.987
+Epoch 1, train loss: 0.06412, train acc: 0.989
+Epoch 2, train loss: 0.06475, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.06541, train acc: 0.987
+Epoch 1, train loss: 0.06512, train acc: 0.988
+Epoch 2, train loss: 0.06480, train acc: 0.986
+gen eval loss: 11.52230, dis eval loss: 0.06345, dis eval acc: 0.987
+
+Round 85
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07560, train acc: 0.980
+Epoch 1, train loss: 0.07624, train acc: 0.983
+Epoch 2, train loss: 0.07124, train acc: 0.986
+##D-Step 1
+Epoch 0, train loss: 0.06531, train acc: 0.987
+Epoch 1, train loss: 0.06791, train acc: 0.985
+Epoch 2, train loss: 0.06626, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.06669, train acc: 0.986
+Epoch 1, train loss: 0.06322, train acc: 0.987
+Epoch 2, train loss: 0.06305, train acc: 0.986
+gen eval loss: 11.46499, dis eval loss: 0.06092, dis eval acc: 0.989
+
+Round 86
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07033, train acc: 0.985
+Epoch 1, train loss: 0.07261, train acc: 0.986
+Epoch 2, train loss: 0.07099, train acc: 0.985
+##D-Step 1
+Epoch 0, train loss: 0.06486, train acc: 0.987
+Epoch 1, train loss: 0.06636, train acc: 0.986
+Epoch 2, train loss: 0.06436, train acc: 0.988
+##D-Step 2
+Epoch 0, train loss: 0.06174, train acc: 0.988
+Epoch 1, train loss: 0.05972, train acc: 0.988
+Epoch 2, train loss: 0.05882, train acc: 0.988
+gen eval loss: 11.46956, dis eval loss: 0.05936, dis eval acc: 0.989
+
+Round 87
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06752, train acc: 0.986
+Epoch 1, train loss: 0.06423, train acc: 0.987
+Epoch 2, train loss: 0.06427, train acc: 0.987
+##D-Step 1
+Epoch 0, train loss: 0.06731, train acc: 0.984
+Epoch 1, train loss: 0.06456, train acc: 0.986
+Epoch 2, train loss: 0.06239, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.05910, train acc: 0.988
+Epoch 1, train loss: 0.05975, train acc: 0.989
+Epoch 2, train loss: 0.05820, train acc: 0.988
+gen eval loss: 11.56377, dis eval loss: 0.05898, dis eval acc: 0.988
+
+Round 88
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07025, train acc: 0.985
+Epoch 1, train loss: 0.06934, train acc: 0.985
+Epoch 2, train loss: 0.06828, train acc: 0.986
+##D-Step 1
+Epoch 0, train loss: 0.06621, train acc: 0.988
+Epoch 1, train loss: 0.06334, train acc: 0.990
+Epoch 2, train loss: 0.05974, train acc: 0.990
+##D-Step 2
+Epoch 0, train loss: 0.06024, train acc: 0.989
+Epoch 1, train loss: 0.05962, train acc: 0.987
+Epoch 2, train loss: 0.05854, train acc: 0.989
+gen eval loss: 11.51244, dis eval loss: 0.06222, dis eval acc: 0.987
+
+Round 89
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06092, train acc: 0.985
+Epoch 1, train loss: 0.05849, train acc: 0.987
+Epoch 2, train loss: 0.05631, train acc: 0.989
+##D-Step 1
+Epoch 0, train loss: 0.05889, train acc: 0.989
+Epoch 1, train loss: 0.05626, train acc: 0.987
+Epoch 2, train loss: 0.05696, train acc: 0.988
+##D-Step 2
+Epoch 0, train loss: 0.05321, train acc: 0.990
+Epoch 1, train loss: 0.05289, train acc: 0.988
+Epoch 2, train loss: 0.05034, train acc: 0.991
+gen eval loss: 11.44412, dis eval loss: 0.05531, dis eval acc: 0.988
+
+Round 90
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.05667, train acc: 0.988
+Epoch 1, train loss: 0.05653, train acc: 0.989
+Epoch 2, train loss: 0.05547, train acc: 0.987
+##D-Step 1
+Epoch 0, train loss: 0.05387, train acc: 0.990
+Epoch 1, train loss: 0.05311, train acc: 0.990
+Epoch 2, train loss: 0.05189, train acc: 0.990
+##D-Step 2
+Epoch 0, train loss: 0.05369, train acc: 0.988
+Epoch 1, train loss: 0.05115, train acc: 0.990
+Epoch 2, train loss: 0.05105, train acc: 0.990
+gen eval loss: 11.51090, dis eval loss: 0.04650, dis eval acc: 0.993
+
+Round 91
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.05131, train acc: 0.990
+Epoch 1, train loss: 0.04937, train acc: 0.990
+Epoch 2, train loss: 0.04739, train acc: 0.992
+##D-Step 1
+Epoch 0, train loss: 0.04851, train acc: 0.991
+Epoch 1, train loss: 0.05136, train acc: 0.989
+Epoch 2, train loss: 0.04861, train acc: 0.991
+##D-Step 2
+Epoch 0, train loss: 0.05000, train acc: 0.992
+Epoch 1, train loss: 0.04944, train acc: 0.992
+Epoch 2, train loss: 0.04791, train acc: 0.991
+gen eval loss: 11.57456, dis eval loss: 0.04561, dis eval acc: 0.991
+
+Round 92
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.05252, train acc: 0.988
+Epoch 1, train loss: 0.05108, train acc: 0.988
+Epoch 2, train loss: 0.05085, train acc: 0.988
+##D-Step 1
+Epoch 0, train loss: 0.05166, train acc: 0.990
+Epoch 1, train loss: 0.04748, train acc: 0.991
+Epoch 2, train loss: 0.04664, train acc: 0.991
+##D-Step 2
+Epoch 0, train loss: 0.04649, train acc: 0.989
+Epoch 1, train loss: 0.04670, train acc: 0.990
+Epoch 2, train loss: 0.04592, train acc: 0.990
+gen eval loss: 11.60009, dis eval loss: 0.04801, dis eval acc: 0.989
+
+Round 93
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.05766, train acc: 0.984
+Epoch 1, train loss: 0.05746, train acc: 0.983
+Epoch 2, train loss: 0.05616, train acc: 0.986
+##D-Step 1
+Epoch 0, train loss: 0.05279, train acc: 0.986
+Epoch 1, train loss: 0.05486, train acc: 0.985
+Epoch 2, train loss: 0.05391, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.05277, train acc: 0.987
+Epoch 1, train loss: 0.05308, train acc: 0.985
+Epoch 2, train loss: 0.05459, train acc: 0.986
+gen eval loss: 11.53622, dis eval loss: 0.05262, dis eval acc: 0.985
+
+Round 94
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06638, train acc: 0.979
+Epoch 1, train loss: 0.06568, train acc: 0.980
+Epoch 2, train loss: 0.06508, train acc: 0.980
+##D-Step 1
+Epoch 0, train loss: 0.06457, train acc: 0.980
+Epoch 1, train loss: 0.06382, train acc: 0.981
+Epoch 2, train loss: 0.06250, train acc: 0.983
+##D-Step 2
+Epoch 0, train loss: 0.05955, train acc: 0.985
+Epoch 1, train loss: 0.06104, train acc: 0.984
+Epoch 2, train loss: 0.06021, train acc: 0.984
+gen eval loss: 11.56796, dis eval loss: 0.06227, dis eval acc: 0.982
+
+Round 95
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.08746, train acc: 0.972
+Epoch 1, train loss: 0.08511, train acc: 0.975
+Epoch 2, train loss: 0.08221, train acc: 0.976
+##D-Step 1
+Epoch 0, train loss: 0.07923, train acc: 0.978
+Epoch 1, train loss: 0.07887, train acc: 0.978
+Epoch 2, train loss: 0.07910, train acc: 0.976
+##D-Step 2
+Epoch 0, train loss: 0.07695, train acc: 0.978
+Epoch 1, train loss: 0.07353, train acc: 0.979
+Epoch 2, train loss: 0.07233, train acc: 0.978
+gen eval loss: 11.59924, dis eval loss: 0.07411, dis eval acc: 0.978
+
+Round 96
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09871, train acc: 0.970
+Epoch 1, train loss: 0.09623, train acc: 0.973
+Epoch 2, train loss: 0.09409, train acc: 0.974
+##D-Step 1
+Epoch 0, train loss: 0.09328, train acc: 0.974
+Epoch 1, train loss: 0.09330, train acc: 0.975
+Epoch 2, train loss: 0.08713, train acc: 0.977
+##D-Step 2
+Epoch 0, train loss: 0.08340, train acc: 0.977
+Epoch 1, train loss: 0.08047, train acc: 0.979
+Epoch 2, train loss: 0.07815, train acc: 0.980
+gen eval loss: 11.61677, dis eval loss: 0.07949, dis eval acc: 0.981
+
+Round 97
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.09486, train acc: 0.975
+Epoch 1, train loss: 0.09298, train acc: 0.976
+Epoch 2, train loss: 0.09547, train acc: 0.977
+##D-Step 1
+Epoch 0, train loss: 0.08847, train acc: 0.979
+Epoch 1, train loss: 0.08319, train acc: 0.983
+Epoch 2, train loss: 0.08268, train acc: 0.982
+##D-Step 2
+Epoch 0, train loss: 0.08494, train acc: 0.979
+Epoch 1, train loss: 0.08433, train acc: 0.982
+Epoch 2, train loss: 0.08088, train acc: 0.983
+gen eval loss: 11.70607, dis eval loss: 0.08041, dis eval acc: 0.982
+
+Round 98
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.08952, train acc: 0.979
+Epoch 1, train loss: 0.08537, train acc: 0.981
+Epoch 2, train loss: 0.08439, train acc: 0.983
+##D-Step 1
+Epoch 0, train loss: 0.08436, train acc: 0.982
+Epoch 1, train loss: 0.08179, train acc: 0.984
+Epoch 2, train loss: 0.07943, train acc: 0.982
+##D-Step 2
+Epoch 0, train loss: 0.07424, train acc: 0.985
+Epoch 1, train loss: 0.07298, train acc: 0.984
+Epoch 2, train loss: 0.07171, train acc: 0.987
+gen eval loss: 11.67677, dis eval loss: 0.07211, dis eval acc: 0.985
+
+Round 99
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.07539, train acc: 0.984
+Epoch 1, train loss: 0.07201, train acc: 0.985
+Epoch 2, train loss: 0.07310, train acc: 0.985
+##D-Step 1
+Epoch 0, train loss: 0.07245, train acc: 0.987
+Epoch 1, train loss: 0.07163, train acc: 0.985
+Epoch 2, train loss: 0.06994, train acc: 0.988
+##D-Step 2
+Epoch 0, train loss: 0.06645, train acc: 0.985
+Epoch 1, train loss: 0.06566, train acc: 0.988
+Epoch 2, train loss: 0.06554, train acc: 0.987
+gen eval loss: 11.67941, dis eval loss: 0.06609, dis eval acc: 0.987
+
+Round 100
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06829, train acc: 0.988
+Epoch 1, train loss: 0.06343, train acc: 0.988
+Epoch 2, train loss: 0.06212, train acc: 0.988
+##D-Step 1
+Epoch 0, train loss: 0.06413, train acc: 0.988
+Epoch 1, train loss: 0.06234, train acc: 0.988
+Epoch 2, train loss: 0.06240, train acc: 0.987
+##D-Step 2
+Epoch 0, train loss: 0.05669, train acc: 0.990
+Epoch 1, train loss: 0.05724, train acc: 0.990
+Epoch 2, train loss: 0.05721, train acc: 0.991
+gen eval loss: 11.69064, dis eval loss: 0.05459, dis eval acc: 0.991
+
+Round 101
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.06082, train acc: 0.987
+Epoch 1, train loss: 0.05715, train acc: 0.989
+Epoch 2, train loss: 0.06068, train acc: 0.988
+##D-Step 1
+Epoch 0, train loss: 0.05493, train acc: 0.991
+Epoch 1, train loss: 0.05527, train acc: 0.990
+Epoch 2, train loss: 0.05341, train acc: 0.989
+##D-Step 2
+Epoch 0, train loss: 0.05501, train acc: 0.989
+Epoch 1, train loss: 0.05114, train acc: 0.993
+Epoch 2, train loss: 0.05114, train acc: 0.991
+gen eval loss: 11.73778, dis eval loss: 0.05065, dis eval acc: 0.992
+
+Round 102
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.05182, train acc: 0.993
+Epoch 1, train loss: 0.04877, train acc: 0.994
+Epoch 2, train loss: 0.04573, train acc: 0.993
+##D-Step 1
+Epoch 0, train loss: 0.04683, train acc: 0.994
+Epoch 1, train loss: 0.04716, train acc: 0.993
+Epoch 2, train loss: 0.04781, train acc: 0.992
+##D-Step 2
+Epoch 0, train loss: 0.04679, train acc: 0.992
+Epoch 1, train loss: 0.04511, train acc: 0.993
+Epoch 2, train loss: 0.04587, train acc: 0.992
+gen eval loss: 11.83361, dis eval loss: 0.04398, dis eval acc: 0.993
+
+Round 103
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.04408, train acc: 0.994
+Epoch 1, train loss: 0.04300, train acc: 0.993
+Epoch 2, train loss: 0.04317, train acc: 0.992
+##D-Step 1
+Epoch 0, train loss: 0.04222, train acc: 0.993
+Epoch 1, train loss: 0.04420, train acc: 0.991
+Epoch 2, train loss: 0.04140, train acc: 0.992
+##D-Step 2
+Epoch 0, train loss: 0.03977, train acc: 0.994
+Epoch 1, train loss: 0.04076, train acc: 0.992
+Epoch 2, train loss: 0.03800, train acc: 0.994
+gen eval loss: 11.93901, dis eval loss: 0.04106, dis eval acc: 0.993
+
+Round 104
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.03623, train acc: 0.994
+Epoch 1, train loss: 0.03590, train acc: 0.994
+Epoch 2, train loss: 0.03584, train acc: 0.994
+##D-Step 1
+Epoch 0, train loss: 0.03571, train acc: 0.993
+Epoch 1, train loss: 0.03401, train acc: 0.994
+Epoch 2, train loss: 0.03419, train acc: 0.995
+##D-Step 2
+Epoch 0, train loss: 0.03377, train acc: 0.993
+Epoch 1, train loss: 0.03185, train acc: 0.995
+Epoch 2, train loss: 0.03063, train acc: 0.995
+gen eval loss: 12.02134, dis eval loss: 0.03039, dis eval acc: 0.996
+
+Round 105
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.03181, train acc: 0.995
+Epoch 1, train loss: 0.03187, train acc: 0.995
+Epoch 2, train loss: 0.03045, train acc: 0.995
+##D-Step 1
+Epoch 0, train loss: 0.02935, train acc: 0.995
+Epoch 1, train loss: 0.02959, train acc: 0.995
+Epoch 2, train loss: 0.03068, train acc: 0.995
+##D-Step 2
+Epoch 0, train loss: 0.02755, train acc: 0.997
+Epoch 1, train loss: 0.02685, train acc: 0.997
+Epoch 2, train loss: 0.02610, train acc: 0.996
+gen eval loss: 12.09411, dis eval loss: 0.02956, dis eval acc: 0.996
+
+Round 106
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.03451, train acc: 0.993
+Epoch 1, train loss: 0.03170, train acc: 0.996
+Epoch 2, train loss: 0.03236, train acc: 0.994
+##D-Step 1
+Epoch 0, train loss: 0.03015, train acc: 0.996
+Epoch 1, train loss: 0.03155, train acc: 0.994
+Epoch 2, train loss: 0.02942, train acc: 0.995
+##D-Step 2
+Epoch 0, train loss: 0.02927, train acc: 0.995
+Epoch 1, train loss: 0.02989, train acc: 0.995
+Epoch 2, train loss: 0.02931, train acc: 0.995
+gen eval loss: 12.04905, dis eval loss: 0.03433, dis eval acc: 0.995
+
+Round 107
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.04299, train acc: 0.990
+Epoch 1, train loss: 0.04145, train acc: 0.991
+Epoch 2, train loss: 0.03995, train acc: 0.991
+##D-Step 1
+Epoch 0, train loss: 0.03958, train acc: 0.992
+Epoch 1, train loss: 0.03790, train acc: 0.994
+Epoch 2, train loss: 0.03821, train acc: 0.994
+##D-Step 2
+Epoch 0, train loss: 0.03472, train acc: 0.994
+Epoch 1, train loss: 0.03515, train acc: 0.995
+Epoch 2, train loss: 0.03559, train acc: 0.994
+gen eval loss: 12.00045, dis eval loss: 0.03624, dis eval acc: 0.995
+
+Round 108
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.04022, train acc: 0.994
+Epoch 1, train loss: 0.03831, train acc: 0.994
+Epoch 2, train loss: 0.03788, train acc: 0.995
+##D-Step 1
+Epoch 0, train loss: 0.03731, train acc: 0.996
+Epoch 1, train loss: 0.03503, train acc: 0.996
+Epoch 2, train loss: 0.03539, train acc: 0.996
+##D-Step 2
+Epoch 0, train loss: 0.03694, train acc: 0.993
+Epoch 1, train loss: 0.03716, train acc: 0.994
+Epoch 2, train loss: 0.03476, train acc: 0.996
+gen eval loss: 11.97382, dis eval loss: 0.03475, dis eval acc: 0.996
+
+Round 109
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.03403, train acc: 0.995
+Epoch 1, train loss: 0.03399, train acc: 0.995
+Epoch 2, train loss: 0.03433, train acc: 0.995
+##D-Step 1
+Epoch 0, train loss: 0.03400, train acc: 0.995
+Epoch 1, train loss: 0.03166, train acc: 0.994
+Epoch 2, train loss: 0.03097, train acc: 0.995
+##D-Step 2
+Epoch 0, train loss: 0.03206, train acc: 0.995
+Epoch 1, train loss: 0.03127, train acc: 0.997
+Epoch 2, train loss: 0.03110, train acc: 0.996
+gen eval loss: 11.86215, dis eval loss: 0.03372, dis eval acc: 0.994
+
+Round 110
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.03059, train acc: 0.996
+Epoch 1, train loss: 0.02976, train acc: 0.997
+Epoch 2, train loss: 0.02828, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02786, train acc: 0.997
+Epoch 1, train loss: 0.02769, train acc: 0.997
+Epoch 2, train loss: 0.02725, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02813, train acc: 0.996
+Epoch 1, train loss: 0.02666, train acc: 0.998
+Epoch 2, train loss: 0.02609, train acc: 0.998
+gen eval loss: 11.90060, dis eval loss: 0.02569, dis eval acc: 0.998
+
+Round 111
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02985, train acc: 0.997
+Epoch 1, train loss: 0.02922, train acc: 0.997
+Epoch 2, train loss: 0.02881, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02546, train acc: 0.998
+Epoch 1, train loss: 0.02611, train acc: 0.998
+Epoch 2, train loss: 0.02573, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02556, train acc: 0.998
+Epoch 1, train loss: 0.02523, train acc: 0.997
+Epoch 2, train loss: 0.02505, train acc: 0.998
+gen eval loss: 11.90657, dis eval loss: 0.02540, dis eval acc: 0.997
+
+Round 112
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02738, train acc: 0.997
+Epoch 1, train loss: 0.02798, train acc: 0.997
+Epoch 2, train loss: 0.02751, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02552, train acc: 0.998
+Epoch 1, train loss: 0.02587, train acc: 0.998
+Epoch 2, train loss: 0.02539, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02449, train acc: 0.998
+Epoch 1, train loss: 0.02530, train acc: 0.997
+Epoch 2, train loss: 0.02390, train acc: 0.998
+gen eval loss: 12.01753, dis eval loss: 0.02379, dis eval acc: 0.998
+
+Round 113
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02827, train acc: 0.996
+Epoch 1, train loss: 0.02703, train acc: 0.997
+Epoch 2, train loss: 0.02589, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02535, train acc: 0.997
+Epoch 1, train loss: 0.02613, train acc: 0.997
+Epoch 2, train loss: 0.02608, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02693, train acc: 0.996
+Epoch 1, train loss: 0.02678, train acc: 0.995
+Epoch 2, train loss: 0.02524, train acc: 0.996
+gen eval loss: 12.09722, dis eval loss: 0.02504, dis eval acc: 0.997
+
+Round 114
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02459, train acc: 0.997
+Epoch 1, train loss: 0.02423, train acc: 0.998
+Epoch 2, train loss: 0.02389, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02372, train acc: 0.998
+Epoch 1, train loss: 0.02639, train acc: 0.996
+Epoch 2, train loss: 0.02384, train acc: 0.996
+##D-Step 2
+Epoch 0, train loss: 0.02252, train acc: 0.997
+Epoch 1, train loss: 0.02148, train acc: 0.997
+Epoch 2, train loss: 0.02083, train acc: 0.998
+gen eval loss: 12.32075, dis eval loss: 0.02148, dis eval acc: 0.998
+
+Round 115
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02293, train acc: 0.997
+Epoch 1, train loss: 0.02278, train acc: 0.997
+Epoch 2, train loss: 0.02301, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02272, train acc: 0.996
+Epoch 1, train loss: 0.02264, train acc: 0.996
+Epoch 2, train loss: 0.02186, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.02151, train acc: 0.997
+Epoch 1, train loss: 0.01990, train acc: 0.997
+Epoch 2, train loss: 0.02073, train acc: 0.997
+gen eval loss: 12.07624, dis eval loss: 0.02137, dis eval acc: 0.998
+
+Round 116
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02240, train acc: 0.997
+Epoch 1, train loss: 0.02343, train acc: 0.997
+Epoch 2, train loss: 0.02226, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02158, train acc: 0.997
+Epoch 1, train loss: 0.02062, train acc: 0.998
+Epoch 2, train loss: 0.02130, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02005, train acc: 0.998
+Epoch 1, train loss: 0.01848, train acc: 0.998
+Epoch 2, train loss: 0.01950, train acc: 0.998
+gen eval loss: 12.20270, dis eval loss: 0.01880, dis eval acc: 0.998
+
+Round 117
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01929, train acc: 0.998
+Epoch 1, train loss: 0.02008, train acc: 0.997
+Epoch 2, train loss: 0.01982, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.01935, train acc: 0.998
+Epoch 1, train loss: 0.01877, train acc: 0.997
+Epoch 2, train loss: 0.01735, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01886, train acc: 0.997
+Epoch 1, train loss: 0.01847, train acc: 0.998
+Epoch 2, train loss: 0.01783, train acc: 0.998
+gen eval loss: 12.57525, dis eval loss: 0.01767, dis eval acc: 0.998
+
+Round 118
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01890, train acc: 0.997
+Epoch 1, train loss: 0.01823, train acc: 0.998
+Epoch 2, train loss: 0.01812, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01700, train acc: 0.998
+Epoch 1, train loss: 0.01733, train acc: 0.998
+Epoch 2, train loss: 0.01742, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01737, train acc: 0.997
+Epoch 1, train loss: 0.01610, train acc: 0.998
+Epoch 2, train loss: 0.01603, train acc: 0.998
+gen eval loss: 12.40691, dis eval loss: 0.01530, dis eval acc: 0.998
+
+Round 119
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01671, train acc: 0.998
+Epoch 1, train loss: 0.01675, train acc: 0.998
+Epoch 2, train loss: 0.01612, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.02004, train acc: 0.996
+Epoch 1, train loss: 0.01741, train acc: 0.998
+Epoch 2, train loss: 0.01781, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.01719, train acc: 0.998
+Epoch 1, train loss: 0.01586, train acc: 0.998
+Epoch 2, train loss: 0.01713, train acc: 0.997
+gen eval loss: 12.46334, dis eval loss: 0.01517, dis eval acc: 0.998
+
+Round 120
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02023, train acc: 0.997
+Epoch 1, train loss: 0.02053, train acc: 0.997
+Epoch 2, train loss: 0.01993, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.01882, train acc: 0.997
+Epoch 1, train loss: 0.01784, train acc: 0.998
+Epoch 2, train loss: 0.01806, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01739, train acc: 0.998
+Epoch 1, train loss: 0.01695, train acc: 0.998
+Epoch 2, train loss: 0.01684, train acc: 0.998
+gen eval loss: 12.40888, dis eval loss: 0.01814, dis eval acc: 0.997
+
+Round 121
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02235, train acc: 0.996
+Epoch 1, train loss: 0.02441, train acc: 0.996
+Epoch 2, train loss: 0.02044, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02068, train acc: 0.998
+Epoch 1, train loss: 0.02112, train acc: 0.996
+Epoch 2, train loss: 0.02063, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02015, train acc: 0.997
+Epoch 1, train loss: 0.02058, train acc: 0.997
+Epoch 2, train loss: 0.01986, train acc: 0.998
+gen eval loss: 12.39298, dis eval loss: 0.01943, dis eval acc: 0.998
+
+Round 122
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01946, train acc: 0.998
+Epoch 1, train loss: 0.02154, train acc: 0.996
+Epoch 2, train loss: 0.01967, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01921, train acc: 0.997
+Epoch 1, train loss: 0.01969, train acc: 0.997
+Epoch 2, train loss: 0.01811, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01930, train acc: 0.998
+Epoch 1, train loss: 0.01691, train acc: 0.998
+Epoch 2, train loss: 0.01776, train acc: 0.998
+gen eval loss: 12.24608, dis eval loss: 0.01695, dis eval acc: 0.998
+
+Round 123
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01929, train acc: 0.998
+Epoch 1, train loss: 0.01841, train acc: 0.998
+Epoch 2, train loss: 0.01942, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01862, train acc: 0.997
+Epoch 1, train loss: 0.01817, train acc: 0.998
+Epoch 2, train loss: 0.01778, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01745, train acc: 0.998
+Epoch 1, train loss: 0.01705, train acc: 0.998
+Epoch 2, train loss: 0.01663, train acc: 0.998
+gen eval loss: 11.87240, dis eval loss: 0.01608, dis eval acc: 0.999
+
+Round 124
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02739, train acc: 0.994
+Epoch 1, train loss: 0.02519, train acc: 0.997
+Epoch 2, train loss: 0.02402, train acc: 0.996
+##D-Step 1
+Epoch 0, train loss: 0.02574, train acc: 0.994
+Epoch 1, train loss: 0.02395, train acc: 0.996
+Epoch 2, train loss: 0.02395, train acc: 0.996
+##D-Step 2
+Epoch 0, train loss: 0.02399, train acc: 0.996
+Epoch 1, train loss: 0.02319, train acc: 0.997
+Epoch 2, train loss: 0.02355, train acc: 0.997
+gen eval loss: 11.94662, dis eval loss: 0.02305, dis eval acc: 0.996
+
+Round 125
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02904, train acc: 0.996
+Epoch 1, train loss: 0.03026, train acc: 0.996
+Epoch 2, train loss: 0.02960, train acc: 0.995
+##D-Step 1
+Epoch 0, train loss: 0.02772, train acc: 0.996
+Epoch 1, train loss: 0.02828, train acc: 0.997
+Epoch 2, train loss: 0.02769, train acc: 0.995
+##D-Step 2
+Epoch 0, train loss: 0.02549, train acc: 0.997
+Epoch 1, train loss: 0.02544, train acc: 0.997
+Epoch 2, train loss: 0.02458, train acc: 0.997
+gen eval loss: 11.67248, dis eval loss: 0.02364, dis eval acc: 0.998
+
+Round 126
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02699, train acc: 0.996
+Epoch 1, train loss: 0.02523, train acc: 0.997
+Epoch 2, train loss: 0.02430, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02657, train acc: 0.996
+Epoch 1, train loss: 0.02722, train acc: 0.996
+Epoch 2, train loss: 0.02534, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.02309, train acc: 0.997
+Epoch 1, train loss: 0.02245, train acc: 0.998
+Epoch 2, train loss: 0.02390, train acc: 0.998
+gen eval loss: 11.56236, dis eval loss: 0.02351, dis eval acc: 0.996
+
+Round 127
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02254, train acc: 0.997
+Epoch 1, train loss: 0.02155, train acc: 0.998
+Epoch 2, train loss: 0.02163, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.02240, train acc: 0.998
+Epoch 1, train loss: 0.02303, train acc: 0.997
+Epoch 2, train loss: 0.02225, train acc: 0.997
+##D-Step 2
+Epoch 0, train loss: 0.02101, train acc: 0.997
+Epoch 1, train loss: 0.02130, train acc: 0.998
+Epoch 2, train loss: 0.02007, train acc: 0.998
+gen eval loss: 11.62083, dis eval loss: 0.02080, dis eval acc: 0.997
+
+Round 128
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02467, train acc: 0.997
+Epoch 1, train loss: 0.02346, train acc: 0.997
+Epoch 2, train loss: 0.02382, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02128, train acc: 0.998
+Epoch 1, train loss: 0.02113, train acc: 0.998
+Epoch 2, train loss: 0.02055, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.02160, train acc: 0.998
+Epoch 1, train loss: 0.02218, train acc: 0.997
+Epoch 2, train loss: 0.02040, train acc: 0.998
+gen eval loss: 11.61174, dis eval loss: 0.01907, dis eval acc: 0.999
+
+Round 129
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02526, train acc: 0.996
+Epoch 1, train loss: 0.02397, train acc: 0.996
+Epoch 2, train loss: 0.02261, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02131, train acc: 0.998
+Epoch 1, train loss: 0.02031, train acc: 0.998
+Epoch 2, train loss: 0.02075, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.02100, train acc: 0.998
+Epoch 1, train loss: 0.02115, train acc: 0.996
+Epoch 2, train loss: 0.01951, train acc: 0.998
+gen eval loss: 11.60117, dis eval loss: 0.01951, dis eval acc: 0.998
+
+Round 130
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02177, train acc: 0.997
+Epoch 1, train loss: 0.02204, train acc: 0.997
+Epoch 2, train loss: 0.01992, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.01800, train acc: 0.998
+Epoch 1, train loss: 0.01909, train acc: 0.998
+Epoch 2, train loss: 0.01757, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01835, train acc: 0.998
+Epoch 1, train loss: 0.01854, train acc: 0.998
+Epoch 2, train loss: 0.01901, train acc: 0.998
+gen eval loss: 11.39038, dis eval loss: 0.01834, dis eval acc: 0.998
+
+Round 131
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02393, train acc: 0.996
+Epoch 1, train loss: 0.02304, train acc: 0.997
+Epoch 2, train loss: 0.02309, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02162, train acc: 0.997
+Epoch 1, train loss: 0.02238, train acc: 0.997
+Epoch 2, train loss: 0.02148, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.02162, train acc: 0.997
+Epoch 1, train loss: 0.02090, train acc: 0.997
+Epoch 2, train loss: 0.02077, train acc: 0.998
+gen eval loss: 11.38659, dis eval loss: 0.02117, dis eval acc: 0.998
+
+Round 132
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.03338, train acc: 0.991
+Epoch 1, train loss: 0.03371, train acc: 0.990
+Epoch 2, train loss: 0.03146, train acc: 0.992
+##D-Step 1
+Epoch 0, train loss: 0.02880, train acc: 0.994
+Epoch 1, train loss: 0.02869, train acc: 0.993
+Epoch 2, train loss: 0.02704, train acc: 0.994
+##D-Step 2
+Epoch 0, train loss: 0.02690, train acc: 0.994
+Epoch 1, train loss: 0.02450, train acc: 0.995
+Epoch 2, train loss: 0.02442, train acc: 0.996
+gen eval loss: 11.38581, dis eval loss: 0.02530, dis eval acc: 0.994
+
+Round 133
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02082, train acc: 0.997
+Epoch 1, train loss: 0.02001, train acc: 0.997
+Epoch 2, train loss: 0.02006, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02022, train acc: 0.997
+Epoch 1, train loss: 0.02070, train acc: 0.996
+Epoch 2, train loss: 0.02130, train acc: 0.996
+##D-Step 2
+Epoch 0, train loss: 0.01923, train acc: 0.997
+Epoch 1, train loss: 0.01956, train acc: 0.997
+Epoch 2, train loss: 0.01968, train acc: 0.997
+gen eval loss: 11.14216, dis eval loss: 0.01774, dis eval acc: 0.997
+
+Round 134
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02560, train acc: 0.996
+Epoch 1, train loss: 0.02523, train acc: 0.996
+Epoch 2, train loss: 0.02226, train acc: 0.997
+##D-Step 1
+Epoch 0, train loss: 0.02083, train acc: 0.998
+Epoch 1, train loss: 0.02223, train acc: 0.997
+Epoch 2, train loss: 0.01980, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.02210, train acc: 0.997
+Epoch 1, train loss: 0.02146, train acc: 0.997
+Epoch 2, train loss: 0.02157, train acc: 0.997
+gen eval loss: 11.28904, dis eval loss: 0.02086, dis eval acc: 0.997
+
+Round 135
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02055, train acc: 0.998
+Epoch 1, train loss: 0.02148, train acc: 0.997
+Epoch 2, train loss: 0.01975, train acc: 0.999
+##D-Step 1
+Epoch 0, train loss: 0.01936, train acc: 0.999
+Epoch 1, train loss: 0.01926, train acc: 0.998
+Epoch 2, train loss: 0.01803, train acc: 0.999
+##D-Step 2
+Epoch 0, train loss: 0.02012, train acc: 0.997
+Epoch 1, train loss: 0.01859, train acc: 0.998
+Epoch 2, train loss: 0.01786, train acc: 0.998
+gen eval loss: 11.18001, dis eval loss: 0.01764, dis eval acc: 0.999
+
+Round 136
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01859, train acc: 0.998
+Epoch 1, train loss: 0.01782, train acc: 0.998
+Epoch 2, train loss: 0.01657, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01621, train acc: 0.998
+Epoch 1, train loss: 0.01653, train acc: 0.998
+Epoch 2, train loss: 0.01581, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01528, train acc: 0.999
+Epoch 1, train loss: 0.01575, train acc: 0.998
+Epoch 2, train loss: 0.01592, train acc: 0.998
+gen eval loss: 10.93823, dis eval loss: 0.01554, dis eval acc: 0.998
+
+Round 137
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02061, train acc: 0.999
+Epoch 1, train loss: 0.01887, train acc: 0.998
+Epoch 2, train loss: 0.01767, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01666, train acc: 0.999
+Epoch 1, train loss: 0.01579, train acc: 0.999
+Epoch 2, train loss: 0.01674, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01653, train acc: 0.998
+Epoch 1, train loss: 0.01585, train acc: 0.999
+Epoch 2, train loss: 0.01618, train acc: 0.998
+gen eval loss: 11.02787, dis eval loss: 0.01663, dis eval acc: 0.998
+
+Round 138
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01930, train acc: 0.996
+Epoch 1, train loss: 0.01924, train acc: 0.997
+Epoch 2, train loss: 0.01988, train acc: 0.996
+##D-Step 1
+Epoch 0, train loss: 0.01642, train acc: 0.998
+Epoch 1, train loss: 0.01729, train acc: 0.998
+Epoch 2, train loss: 0.01678, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01675, train acc: 0.997
+Epoch 1, train loss: 0.01581, train acc: 0.998
+Epoch 2, train loss: 0.01482, train acc: 0.998
+gen eval loss: 11.02444, dis eval loss: 0.01780, dis eval acc: 0.997
+
+Round 139
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01785, train acc: 0.998
+Epoch 1, train loss: 0.01722, train acc: 0.998
+Epoch 2, train loss: 0.01689, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01747, train acc: 0.997
+Epoch 1, train loss: 0.01648, train acc: 0.997
+Epoch 2, train loss: 0.01661, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01915, train acc: 0.996
+Epoch 1, train loss: 0.01813, train acc: 0.997
+Epoch 2, train loss: 0.01848, train acc: 0.997
+gen eval loss: 11.07580, dis eval loss: 0.01723, dis eval acc: 0.997
+
+Round 140
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01970, train acc: 0.998
+Epoch 1, train loss: 0.01908, train acc: 0.998
+Epoch 2, train loss: 0.01855, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01771, train acc: 0.998
+Epoch 1, train loss: 0.01808, train acc: 0.999
+Epoch 2, train loss: 0.01694, train acc: 0.999
+##D-Step 2
+Epoch 0, train loss: 0.01700, train acc: 0.998
+Epoch 1, train loss: 0.01657, train acc: 0.999
+Epoch 2, train loss: 0.01646, train acc: 0.998
+gen eval loss: 11.47189, dis eval loss: 0.01563, dis eval acc: 0.998
+
+Round 141
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01380, train acc: 0.999
+Epoch 1, train loss: 0.01366, train acc: 0.998
+Epoch 2, train loss: 0.01454, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01481, train acc: 0.999
+Epoch 1, train loss: 0.01414, train acc: 0.999
+Epoch 2, train loss: 0.01393, train acc: 0.998
+##D-Step 2
+Epoch 0, train loss: 0.01498, train acc: 0.998
+Epoch 1, train loss: 0.01368, train acc: 0.998
+Epoch 2, train loss: 0.01324, train acc: 0.999
+gen eval loss: 11.61765, dis eval loss: 0.01404, dis eval acc: 0.998
+
+Round 142
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01599, train acc: 0.998
+Epoch 1, train loss: 0.01504, train acc: 0.997
+Epoch 2, train loss: 0.01322, train acc: 0.999
+##D-Step 1
+Epoch 0, train loss: 0.01342, train acc: 0.999
+Epoch 1, train loss: 0.01237, train acc: 0.999
+Epoch 2, train loss: 0.01246, train acc: 0.999
+##D-Step 2
+Epoch 0, train loss: 0.01340, train acc: 0.998
+Epoch 1, train loss: 0.01225, train acc: 0.999
+Epoch 2, train loss: 0.01311, train acc: 0.998
+gen eval loss: 11.68752, dis eval loss: 0.01293, dis eval acc: 0.998
+
+Round 143
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01492, train acc: 0.998
+Epoch 1, train loss: 0.01480, train acc: 0.998
+Epoch 2, train loss: 0.01446, train acc: 0.998
+##D-Step 1
+Epoch 0, train loss: 0.01504, train acc: 0.998
+Epoch 1, train loss: 0.01366, train acc: 0.998
+Epoch 2, train loss: 0.01150, train acc: 0.999
+##D-Step 2
+Epoch 0, train loss: 0.01325, train acc: 0.998
+Epoch 1, train loss: 0.01406, train acc: 0.998
+Epoch 2, train loss: 0.01346, train acc: 0.998
+gen eval loss: 12.32221, dis eval loss: 0.01194, dis eval acc: 0.998
+
+Round 144
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.02519, train acc: 0.993
+Epoch 1, train loss: 0.02068, train acc: 0.996
+Epoch 2, train loss: 0.01969, train acc: 0.996
+##D-Step 1
+Epoch 0, train loss: 0.01768, train acc: 0.998
+Epoch 1, train loss: 0.01736, train acc: 0.997
+Epoch 2, train loss: 0.01568, train acc: 0.999
+##D-Step 2
+Epoch 0, train loss: 0.01593, train acc: 0.998
+Epoch 1, train loss: 0.01420, train acc: 0.999
+Epoch 2, train loss: 0.01397, train acc: 0.999
+gen eval loss: 12.43454, dis eval loss: 0.01398, dis eval acc: 0.998
+
+Round 145
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.01753, train acc: 0.998
+Epoch 1, train loss: 0.01607, train acc: 0.999
+Epoch 2, train loss: 0.01511, train acc: 0.999
+##D-Step 1
+Epoch 0, train loss: 0.01367, train acc: 0.999
+Epoch 1, train loss: 0.01307, train acc: 0.999
+Epoch 2, train loss: 0.01229, train acc: 1.000
+##D-Step 2
+Epoch 0, train loss: 0.01223, train acc: 0.999
+Epoch 1, train loss: 0.01113, train acc: 0.999
+Epoch 2, train loss: 0.01081, train acc: 0.999
+gen eval loss: 11.94118, dis eval loss: 0.00971, dis eval acc: 1.000
+
+Round 146
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.00920, train acc: 0.999
+Epoch 1, train loss: 0.00951, train acc: 0.999
+Epoch 2, train loss: 0.00944, train acc: 0.999
+##D-Step 1
+Epoch 0, train loss: 0.00887, train acc: 0.999
+Epoch 1, train loss: 0.00796, train acc: 1.000
+Epoch 2, train loss: 0.00804, train acc: 1.000
+##D-Step 2
+Epoch 0, train loss: 0.00840, train acc: 1.000
+Epoch 1, train loss: 0.00862, train acc: 0.999
+Epoch 2, train loss: 0.00747, train acc: 0.999
+gen eval loss: 11.78674, dis eval loss: 0.00655, dis eval acc: 1.000
+
+Round 147
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.00758, train acc: 1.000
+Epoch 1, train loss: 0.00732, train acc: 1.000
+Epoch 2, train loss: 0.00725, train acc: 0.999
+##D-Step 1
+Epoch 0, train loss: 0.00750, train acc: 1.000
+Epoch 1, train loss: 0.00740, train acc: 0.999
+Epoch 2, train loss: 0.00655, train acc: 1.000
+##D-Step 2
+Epoch 0, train loss: 0.00606, train acc: 1.000
+Epoch 1, train loss: 0.00666, train acc: 1.000
+Epoch 2, train loss: 0.00654, train acc: 0.999
+gen eval loss: 12.17996, dis eval loss: 0.00606, dis eval acc: 1.000
+
+Round 148
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.00584, train acc: 1.000
+Epoch 1, train loss: 0.00642, train acc: 0.999
+Epoch 2, train loss: 0.00560, train acc: 1.000
+##D-Step 1
+Epoch 0, train loss: 0.00662, train acc: 0.999
+Epoch 1, train loss: 0.00625, train acc: 0.999
+Epoch 2, train loss: 0.00640, train acc: 0.999
+##D-Step 2
+Epoch 0, train loss: 0.00561, train acc: 1.000
+Epoch 1, train loss: 0.00562, train acc: 1.000
+Epoch 2, train loss: 0.00535, train acc: 1.000
+gen eval loss: 11.86948, dis eval loss: 0.00479, dis eval acc: 1.000
+
+Round 149
+#Train generator
+##G-Step 0
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:67: UserWarning: masked_select received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+/pytorch/aten/src/ATen/native/cuda/LegacyDefinitions.cpp:54: UserWarning: masked_scatter_ received a mask with dtype torch.uint8, this behavior is now deprecated,please use a mask with dtype torch.bool instead.
+#Train discriminator
+##D-Step 0
+Epoch 0, train loss: 0.00531, train acc: 1.000
+Epoch 1, train loss: 0.00485, train acc: 1.000
+Epoch 2, train loss: 0.00476, train acc: 1.000
+##D-Step 1
+Epoch 0, train loss: 0.00509, train acc: 1.000
+Epoch 1, train loss: 0.00491, train acc: 1.000
+Epoch 2, train loss: 0.00481, train acc: 1.000
+##D-Step 2
+Epoch 0, train loss: 0.00545, train acc: 1.000
+Epoch 1, train loss: 0.00514, train acc: 1.000
+Epoch 2, train loss: 0.00532, train acc: 1.000
+gen eval loss: 12.01409, dis eval loss: 0.00476, dis eval acc: 1.000
+
