@@ -1,5 +1,5 @@
 # SeqGAN-Poem-torch-PARL
-using PARL reinforement learning framework with torch to implement SegGAN(Chinese Poem generation)
+using PARL reinforement learning framework with torch to implement SeqGAN(Chinese Poem generation)
 
 original paper: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v6.pdf)
 
@@ -8,7 +8,7 @@ https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/SeqGAN-Poem-tor
 ## Introduction
 这是一个用SeqGAN生成中文古诗的程序，使用百度的强化学习PARL框架以及pytorch。动态图如下（可以看到刚开始生成的序列结尾不太好，有很多“一”，后续逐渐变好）：
 
-![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/poems.gif)
+![](https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/ReadMePic/poems.gif)
 
 This is a project that using SeqGAN to generate Chinese Poem, where baidu's reinforcement learning framework PARL(with pytorch) are used.
 
@@ -17,10 +17,10 @@ https://github.com/PaddlePaddle/PARL
 
 ## Arichitecture
 This is how PARL abstracts RL as model-algorithm-agent:
-![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/abstractions.png)
+![](https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/ReadMePic/abstractions.png)
 
 And this is how SeqGAN works:
-![](https://github.com/AddASecond/SegGAN-Poem-torch-PARL/blob/master/ReadMePic/seqgan.png)
+![](https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/ReadMePic/seqgan.png)
 
 This is how I put SeqGAN into PARL framework:
 ![](https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/ReadMePic/PARL-Initialize.png)
