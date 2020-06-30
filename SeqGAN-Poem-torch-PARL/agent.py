@@ -45,5 +45,5 @@ class Agent(parl.Agent):
     def predict(self):
         self.algorithm.predict(self.obs)
 
-    def learn(self, reward, optimizer):
-        self.algorithm.learn(self.obs, self.act, reward)
+    def learn(self, reward, optimizer, pg_loss):
+        self.algorithm.learn(self.obs, self.act, reward, optimizer, pg_loss)
