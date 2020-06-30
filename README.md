@@ -1,7 +1,10 @@
-# SegGAN-Poem-torch-PARL
+# SeqGAN-Poem-torch-PARL
 using PARL reinforement learning framework with torch to implement SegGAN(Chinese Poem generation)
 
 original paper: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v6.pdf)
+
+## requirements.txt: 
+https://github.com/AddASecond/SeqGAN-Poem-torch-PARL/blob/master/SeqGAN-Poem-torch-PARL/requirements.txt
 ## Introduction
 这是一个用SeqGAN生成中文古诗的程序，使用百度的强化学习PARL框架以及pytorch。动态图如下（可以看到刚开始生成的序列结尾不太好，有很多“一”，后续逐渐变好）：
 
@@ -32,6 +35,7 @@ This is how I put SeqGAN into PARL framework:
 * train using Poems as corpus   -Done
 * using PARL framework   -Done
 * using build-in functions in PARL to substitude some function   -ing
+* increasing training stability   -ing (gen loss in experiment-log are not used, ignore it)
 
 ## Thanks
 most of code borrow from https://github.com/X-czh/SeqGAN-PyTorch and https://github.com/TobiasLee/SeqGAN_Poem, but merge them into PARL framework for better 
